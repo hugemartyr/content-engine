@@ -1,0 +1,198 @@
+{
+  "trend": {
+    "trend_id": "github_n8n-io_n8n",
+    "source": "github",
+    "title": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "url": "https://github.com/n8n-io/n8n",
+    "metrics": {
+      "stars": 191687,
+      "forks": 58400,
+      "readme_summary": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)\n\n# n8n - Secure Workflow Automation for Technical Teams\n\nn8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments.\n\n![n8n.io - Screenshot](https://..."
+    }
+  },
+  "idea": "Revolutionizing workflow automation with AI: n8n vs the rest",
+  "script": {
+    "hook": "Empower your workflow with n8n: AI-driven automation that's fair-code and packed with power.",
+    "body": "Imagine a platform where you can visually build complex workflows, then add custom code for the edge cases. With over 400 integrations out of the box and native AI capabilities, n8n gives you the flexibility to self-host or use cloud services. It's not just automation; it\u2019s revolutionizing how we approach work.",
+    "cta": "Clone n8n from GitHub now and see for yourself."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 3.0,
+      "visual": "Opening shot of a modern office with someone working on their laptop, indicating productivity and efficiency.",
+      "asset_type": "STOCK",
+      "retrieval_hints": "'coding on laptop close up', 'modern office environment'"
+    },
+    {
+      "scene": 2,
+      "duration": 8.0,
+      "visual": "A screenshot of the n8n interface with a complex workflow being built, highlighting its user-friendly design and ease of use.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "scene": 3,
+      "duration": 7.0,
+      "visual": "A close-up shot of someone's hands typing on a keyboard, emphasizing the hands-on experience and coding aspect.",
+      "asset_type": "STOCK",
+      "retrieval_hints": "'coding on laptop close up'"
+    },
+    {
+      "scene": 4,
+      "duration": 8.0,
+      "visual": "A screenshot of n8n's AI capabilities in action, showing how it can handle complex tasks with ease.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "scene": 5,
+      "duration": 7.0,
+      "visual": "A shot of various integrations available in n8n, showcasing its extensive library and ease of use.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "scene": 6,
+      "duration": 7.0,
+      "visual": "A shot of n8n's cloud services and self-hosting options, highlighting the flexibility it offers.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "scene": 7,
+      "duration": 5.0,
+      "visual": "Closing shot of a person clapping and smiling, signaling satisfaction with the product.",
+      "asset_type": "STOCK",
+      "retrieval_hints": "'happy employee clapping', 'success gesture'"
+    },
+    {
+      "scene": 8,
+      "duration": 7.0,
+      "visual": "Text overlay: 'Clone n8n from GitHub now and see for yourself.' followed by a call to action.",
+      "asset_type": "UI_CAPTURE",
+      "retrieval_hints": ""
+    }
+  ],
+  "assets": [
+    {
+      "scene": 1,
+      "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+      "local_path": "outputs/assets/scene_1_56fe03ba.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.74
+    },
+    {
+      "scene": 2,
+      "asset_url": "https://github.com/n8n-io/n8n",
+      "local_path": "outputs/assets/screenshot_scene_2_e0ed7eef.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.75
+    },
+    {
+      "scene": 3,
+      "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+      "local_path": "outputs/assets/scene_3_cf6e8549.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.74
+    },
+    {
+      "scene": 4,
+      "asset_url": "https://github.com/n8n-io/n8n",
+      "local_path": "outputs/assets/screenshot_scene_4_3fac055b.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.7
+    },
+    {
+      "scene": 5,
+      "asset_url": "https://github.com/n8n-io/n8n",
+      "local_path": "outputs/assets/screenshot_scene_5_8b3c31db.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.7
+    },
+    {
+      "scene": 6,
+      "asset_url": "https://github.com/n8n-io/n8n",
+      "local_path": "outputs/assets/screenshot_scene_6_609b3677.png",
+      "license": "local_generated",
+      "source": "screenshot_fallback",
+      "score": 0.68
+    },
+    {
+      "scene": 7,
+      "asset_url": "https://videos.pexels.com/video-files/7581329/7581329-hd_1080_1920_30fps.mp4",
+      "local_path": "outputs/assets/scene_7_3c374aa6.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.74
+    },
+    {
+      "scene": 8,
+      "asset_url": "https://github.com/search?q=",
+      "local_path": "outputs/assets/screenshot_scene_8_0d9a5086.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    }
+  ],
+  "timeline": {
+    "title": "Reel: n8n-io/n8n",
+    "bgm": "ambient_tech_mellow.mp3",
+    "timeline": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "asset": "scene_1_56fe03ba.mp4",
+        "caption": "Empower your workflow with n8n."
+      },
+      {
+        "start": 3.0,
+        "end": 11.0,
+        "asset": "screenshot_scene_2_e0ed7eef.png",
+        "caption": "Build complex workflows visually."
+      },
+      {
+        "start": 11.0,
+        "end": 18.0,
+        "asset": "scene_3_cf6e8549.mp4",
+        "caption": "With over 400 integrations out of the box and native AI capabilities, n8n gives you the flexibility to self-host or use cloud services"
+      },
+      {
+        "start": 18.0,
+        "end": 26.0,
+        "asset": "screenshot_scene_4_3fac055b.png",
+        "caption": "It's not just automation; it\u2019s revolutionizing how we approach work"
+      },
+      {
+        "start": 26.0,
+        "end": 33.0,
+        "asset": "screenshot_scene_5_8b3c31db.png",
+        "caption": "A shot of various integrations available in n8n, showcasing its extensive library and ease of use."
+      },
+      {
+        "start": 33.0,
+        "end": 40.0,
+        "asset": "screenshot_scene_6_609b3677.png",
+        "caption": "A shot of n8n's cloud services and self-hosting options, highlighting the flexibility it offers."
+      },
+      {
+        "start": 40.0,
+        "end": 45.0,
+        "asset": "scene_7_3c374aa6.mp4",
+        "caption": "Closing shot of a person clapping and smiling, signaling satisfaction with the product."
+      },
+      {
+        "start": 45.0,
+        "end": 52.0,
+        "asset": "screenshot_scene_8_0d9a5086.png",
+        "caption": "Clone n8n from GitHub now and see for yourself."
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "trend_id": "newsletter_latent_space_1d4a3486",
+  "related_entities": [
+    {
+      "name": "OpenAI",
+      "type": "Company",
+      "description": "A research lab and artificial intelligence company"
+    },
+    {
+      "name": "Latent Space newsletter",
+      "type": "Framework",
+      "description": "A publication focusing on technology networks"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Alex Lupsasca",
+      "target": "OpenAI",
+      "type": "Founder"
+    },
+    {
+      "source": "Doing Vibe Physics",
+      "target": "Latent Space newsletter",
+      "type": "inspired_by"
+    }
+  ],
+  "related_topics": [
+    "Technology Networks",
+    "Artificial Intelligence"
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_1_9c02a534.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.7
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_2_406c52fd.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_3_ceff7d61.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_4_338f60c4.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_5_0f3b862c.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 6,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_6_90761f8b.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.7
+  },
+  {
+    "scene": 7,
+    "asset_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "local_path": "outputs/assets/screenshot_scene_7_042f56e2.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.68
+  }
+]

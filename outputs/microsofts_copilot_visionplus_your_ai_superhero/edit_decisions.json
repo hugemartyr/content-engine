@@ -1,0 +1,224 @@
+{
+  "scene_1": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_1_bf465da9.jpg",
+      "duration": 1.5,
+      "overlay_text": "MICROSOFT: COPILOT",
+      "animation": "zoom_1.0_right",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_1_bf465da9.jpg",
+      "duration": 1.5,
+      "overlay_text": "MICROSOFT: COPILOT VISIONPLUS",
+      "animation": "zoom_1.25_center",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_2": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_2_3d0e46d7.mp4",
+      "duration": 1.875,
+      "overlay_text": "INFINITE",
+      "animation": "zoom_1.15_left",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_2_3d0e46d7.mp4",
+      "duration": 1.875,
+      "overlay_text": "INFINITE MEMORY",
+      "animation": "zoom_1.2_bottom_up",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_2_3d0e46d7.mp4",
+      "duration": 1.875,
+      "overlay_text": "INFINITE MEMORY",
+      "animation": "zoom_1.1_slow_zoom",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "scene_2_3d0e46d7.mp4",
+      "duration": 1.875,
+      "overlay_text": "INFINITE MEMORY RECALL",
+      "animation": "zoom_1.25_top_down",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_3": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_3_5793d54e.png",
+      "duration": 1.875,
+      "overlay_text": "MEET MICROSOFT'S",
+      "animation": "zoom_1.0_right",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_3_5793d54e.png",
+      "duration": 1.875,
+      "overlay_text": "MEET MICROSOFT'S LATEST SUPERHUMAN",
+      "animation": "zoom_1.25_center",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "screenshot_scene_3_5793d54e.png",
+      "duration": 1.875,
+      "overlay_text": "MEET MICROSOFT'S LATEST SUPERHUMAN HELPER,",
+      "animation": "zoom_1.15_left",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "screenshot_scene_3_5793d54e.png",
+      "duration": 1.875,
+      "overlay_text": "MEET MICROSOFT'S LATEST SUPERHUMAN HELPER, COPILOT VISIONPLUS",
+      "animation": "zoom_1.2_bottom_up",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_4": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_4_67496fb9.png",
+      "duration": 1.875,
+      "overlay_text": "IT\u2019S NOT JUST AN",
+      "animation": "zoom_1.1_slow_zoom",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_4_67496fb9.png",
+      "duration": 1.875,
+      "overlay_text": "IT\u2019S NOT JUST AN AI; IT\u2019S YOUR PERSONAL",
+      "animation": "zoom_1.25_top_down",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "screenshot_scene_4_67496fb9.png",
+      "duration": 1.875,
+      "overlay_text": "IT\u2019S NOT JUST AN AI; IT\u2019S YOUR PERSONAL DIGITAL COMPANION FOR",
+      "animation": "zoom_1.0_right",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "screenshot_scene_4_67496fb9.png",
+      "duration": 1.875,
+      "overlay_text": "IT\u2019S NOT JUST AN AI; IT\u2019S YOUR PERSONAL DIGITAL COMPANION FOR TASKS BIG OR SMALL",
+      "animation": "zoom_1.25_center",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_5": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_5_63bfcd88.jpg",
+      "duration": 1.875,
+      "overlay_text": "FROM WRITING EMAILS",
+      "animation": "zoom_1.15_left",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_5_63bfcd88.jpg",
+      "duration": 1.875,
+      "overlay_text": "FROM WRITING EMAILS TO BRAINSTORMING IDEAS,",
+      "animation": "zoom_1.2_bottom_up",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_5_63bfcd88.jpg",
+      "duration": 1.875,
+      "overlay_text": "FROM WRITING EMAILS TO BRAINSTORMING IDEAS, THIS TOOL CAN",
+      "animation": "zoom_1.1_slow_zoom",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "scene_5_63bfcd88.jpg",
+      "duration": 1.875,
+      "overlay_text": "FROM WRITING EMAILS TO BRAINSTORMING IDEAS, THIS TOOL CAN DO IT ALL",
+      "animation": "zoom_1.25_top_down",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_6": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_6_f01d0597.png",
+      "duration": 2.0,
+      "overlay_text": "WITH MORE THAN A",
+      "animation": "zoom_1.0_right",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_6_f01d0597.png",
+      "duration": 2.0,
+      "overlay_text": "WITH MORE THAN A MILLION DOWNLOADS IN 24",
+      "animation": "zoom_1.25_center",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "screenshot_scene_6_f01d0597.png",
+      "duration": 2.0,
+      "overlay_text": "WITH MORE THAN A MILLION DOWNLOADS IN 24 HOURS ALONE, IT'S",
+      "animation": "zoom_1.15_left",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "screenshot_scene_6_f01d0597.png",
+      "duration": 2.0,
+      "overlay_text": "WITH MORE THAN A MILLION DOWNLOADS IN 24 HOURS ALONE, IT'S CLEAR WHY THIS IS",
+      "animation": "zoom_1.2_bottom_up",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 5,
+      "asset_used": "screenshot_scene_6_f01d0597.png",
+      "duration": 2.0,
+      "overlay_text": "WITH MORE THAN A MILLION DOWNLOADS IN 24 HOURS ALONE, IT'S CLEAR WHY THIS IS THE FUTURE OF PRODUCTIVITY",
+      "animation": "zoom_1.1_slow_zoom",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_7": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_7_b443b2cd.png",
+      "duration": 1.6666666666666667,
+      "overlay_text": "CLONE OUR COPILOT",
+      "animation": "zoom_1.25_top_down",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_7_b443b2cd.png",
+      "duration": 1.6666666666666667,
+      "overlay_text": "CLONE OUR COPILOT VISIONPLUS REPO NOW",
+      "animation": "zoom_1.0_right",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "screenshot_scene_7_b443b2cd.png",
+      "duration": 1.6666666666666667,
+      "overlay_text": "CLONE OUR COPILOT VISIONPLUS REPO NOW AND TAKE CONTROL.",
+      "animation": "zoom_1.25_center",
+      "transition": "whip_pan"
+    }
+  ]
+}

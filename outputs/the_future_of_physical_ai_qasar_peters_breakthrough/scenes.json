@@ -1,0 +1,51 @@
+[
+  {
+    "scene": 1,
+    "duration": 3.0,
+    "visual": "Qasar Younis and Peter Ludwig introducing Physical AI",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://www.latent.space/p/appliedintuition"
+  },
+  {
+    "scene": 2,
+    "duration": 8.0,
+    "visual": "Qasar Younis and Peter Ludwig discussing their article in Latent Space newsletter",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://www.latent.space/p/appliedintuition"
+  },
+  {
+    "scene": 3,
+    "duration": 8.0,
+    "visual": "Visualization of Physical AI merging with physical machines for efficiency",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "physical ai, machine learning, automation"
+  },
+  {
+    "scene": 4,
+    "duration": 10.0,
+    "visual": "Interview snippets of Qasar and Peter explaining their innovations",
+    "asset_type": "STOCK",
+    "retrieval_hints": "interview tech experts, AI advancements"
+  },
+  {
+    "scene": 5,
+    "duration": 10.0,
+    "visual": "Examples of Physical AI applications in real-world scenarios",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "physical ai, industrial automation"
+  },
+  {
+    "scene": 6,
+    "duration": 8.0,
+    "visual": "Closing shot of Qasar and Peter signing off with a call to action",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://www.latent.space/p/appliedintuition"
+  },
+  {
+    "scene": 7,
+    "duration": 5.0,
+    "visual": "Closing frame with the hashtag #PhysicalAI and a call to clone their repo",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://www.latent.space/p/appliedintuition"
+  }
+]

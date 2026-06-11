@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: content_engine_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: content_user
+      POSTGRES_PASSWORD: content_password
+      POSTGRES_DB: content_intelligence
+    ports:
+      - "5435:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: content_engine_qdrant
+    restart: always
+    ports:
+      - "6334:6333"
+      - "6335:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  redis:
+    image: redis:7-alpine
+    container_name: content_engine_redis
+    restart: always
+    ports:
+      - "6380:6379"
+    volumes:
+      - redis_data:/data
+
+volumes:
+  postgres_data:
+  qdrant_data:
+  redis_data:

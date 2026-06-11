@@ -1,0 +1,98 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "https://reddit.com/r/singularity/comments/mock3",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/screenshot_scene_1_180ff29d.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": null
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://videos.pexels.com/video-files/8720746/8720746-uhd_2160_4096_25fps.mp4",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_2_b123f42c.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_2_58f52440.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://videos.pexels.com/video-files/6914685/6914685-hd_1080_1920_25fps.mp4",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_3_ee41d198.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://videos.pexels.com/video-files/6339931/6339931-sd_240_426_30fps.mp4",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_3_3f0b92cf.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_4_fa9a8706.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://images.pexels.com/photos/18734876/pexels-photo-18734876.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_4_fbbae0ac.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://videos.pexels.com/video-files/8246972/8246972-uhd_2160_3840_25fps.mp4",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_5_65faaf3c.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://videos.pexels.com/video-files/6499161/6499161-uhd_2160_3840_25fps.mp4",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_5_cba4d712.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 6,
+    "asset_url": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_6_b753d57d.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 6,
+    "asset_url": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_6_792bef1c.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 7,
+    "asset_url": "https://reddit.com/r/singularity/comments/mock3",
+    "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/screenshot_scene_7_fd7a4090.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": null
+  }
+]

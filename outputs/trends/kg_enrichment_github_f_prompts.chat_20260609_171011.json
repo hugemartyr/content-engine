@@ -1,0 +1,32 @@
+{
+  "trend_id": "github_f_prompts.chat",
+  "related_entities": [
+    {
+      "name": "prompts.chat",
+      "type": "Product",
+      "description": "The world's largest open-source prompt library for AI"
+    },
+    {
+      "name": "ChatGPT Prompts",
+      "type": "Framework",
+      "description": "A community-driven platform to share, discover, and collect prompts"
+    }
+  ],
+  "relations": [
+    {
+      "source": "prompts.chat",
+      "target": "ChatGPT Prompts",
+      "type": "integrates_with"
+    },
+    {
+      "source": "prompts.chat",
+      "target": "ChatGPT Prompts",
+      "type": "competes_with"
+    }
+  ],
+  "related_topics": [
+    "AI",
+    "Open Source",
+    "Community Driven"
+  ]
+}

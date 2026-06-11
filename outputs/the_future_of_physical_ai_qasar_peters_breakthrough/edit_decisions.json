@@ -1,0 +1,142 @@
+{
+  "scene_1": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_1_0b16d84f.png",
+      "duration": 1.5,
+      "overlay_text": "QASAR",
+      "animation": "zoom_1.0_right",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_1_0b16d84f.png",
+      "duration": 1.5,
+      "overlay_text": "PETER",
+      "animation": "zoom_1.15_right",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_2": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_2_95492968.png",
+      "duration": 4.0,
+      "overlay_text": "QASAR",
+      "animation": "zoom_1.0_left",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_2_95492968.png",
+      "duration": 4.0,
+      "overlay_text": "PETER",
+      "animation": "zoom_1.15_left",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_3": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_3_5bb94e0a.mp4",
+      "duration": 4.0,
+      "overlay_text": "PHYSICAL",
+      "animation": "zoom_1.0_slow_zoom",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_3_5bb94e0a.mp4",
+      "duration": 4.0,
+      "overlay_text": "MACHINES",
+      "animation": "zoom_1.15_slow_zoom",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_4": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_4_b0c20bf7.mp4",
+      "duration": 5.0,
+      "overlay_text": "TECH",
+      "animation": "zoom_1.0_right",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_4_b0c20bf7.mp4",
+      "duration": 5.0,
+      "overlay_text": "ADVANCEMENT",
+      "animation": "zoom_1.15_right",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_5": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_5_066fb9e5.mp4",
+      "duration": 5.0,
+      "overlay_text": "PHYSICAL",
+      "animation": "zoom_1.0_left",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_5_066fb9e5.mp4",
+      "duration": 5.0,
+      "overlay_text": "AI",
+      "animation": "zoom_1.15_left",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_6": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_6_cadaebdc.png",
+      "duration": 4.0,
+      "overlay_text": "QASAR",
+      "animation": "zoom_1.0_slow_zoom",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_6_cadaebdc.png",
+      "duration": 4.0,
+      "overlay_text": "PETER",
+      "animation": "zoom_1.15_slow_zoom",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_7": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_7_9d6d03d1.png",
+      "duration": 2.5,
+      "overlay_text": "CLONE",
+      "animation": "zoom_1.0_right",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_7_9d6d03d1.png",
+      "duration": 2.5,
+      "overlay_text": "REPO",
+      "animation": "zoom_1.15_right",
+      "sfx_triggered": "whoosh",
+      "transition": "whip_pan"
+    }
+  ]
+}

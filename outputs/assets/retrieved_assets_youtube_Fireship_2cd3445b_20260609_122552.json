@@ -1,0 +1,42 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "local_fallback",
+    "local_path": "outputs/assets/scene_1_critical_fallback.jpg",
+    "license": "fallback",
+    "source": "local_mock",
+    "score": null
+  },
+  {
+    "scene": 2,
+    "asset_url": "local_fallback",
+    "local_path": "outputs/assets/scene_2_critical_fallback.jpg",
+    "license": "fallback",
+    "source": "local_mock",
+    "score": null
+  },
+  {
+    "scene": 3,
+    "asset_url": "local_fallback",
+    "local_path": "outputs/assets/scene_3_critical_fallback.jpg",
+    "license": "fallback",
+    "source": "local_mock",
+    "score": null
+  },
+  {
+    "scene": 4,
+    "asset_url": "local_fallback",
+    "local_path": "outputs/assets/scene_4_critical_fallback.jpg",
+    "license": "fallback",
+    "source": "local_mock",
+    "score": null
+  },
+  {
+    "scene": 5,
+    "asset_url": "local_fallback",
+    "local_path": "outputs/assets/scene_5_critical_fallback.jpg",
+    "license": "fallback",
+    "source": "local_mock",
+    "score": null
+  }
+]

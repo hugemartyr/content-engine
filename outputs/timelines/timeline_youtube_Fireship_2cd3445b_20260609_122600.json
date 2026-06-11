@@ -1,0 +1,37 @@
+{
+  "trend_id": "youtube_Fireship_2cd3445b",
+  "title": "Reel: The AI Agents Framework 99% of Devs Don't Know Yet",
+  "bgm": "tech_documentary.mp3",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "asset": "scene_1_critical_fallback.jpg",
+      "caption": "This repository exploded overnight, and you need to clone it right now."
+    },
+    {
+      "start": 3.0,
+      "end": 15.0,
+      "asset": "scene_2_critical_fallback.jpg",
+      "caption": "It's called The AI Agents Framework 99% of Devs Don't Know Yet"
+    },
+    {
+      "start": 15.0,
+      "end": 35.0,
+      "asset": "scene_3_critical_fallback.jpg",
+      "caption": "Video by Fireship"
+    },
+    {
+      "start": 35.0,
+      "end": 50.0,
+      "asset": "scene_4_critical_fallback.jpg",
+      "caption": "In just a few days, it's gained thousands of stars"
+    },
+    {
+      "start": 50.0,
+      "end": 56.0,
+      "asset": "scene_5_critical_fallback.jpg",
+      "caption": "If you want to stay ahead of the curve, hit follow. Link is in the description!"
+    }
+  ]
+}

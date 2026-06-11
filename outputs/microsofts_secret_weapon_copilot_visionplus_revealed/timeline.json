@@ -1,0 +1,49 @@
+{
+  "trend_id": "newsletter_rundown_ai_c70cbbb8",
+  "title": "Reel: Exclusive: Microsoft AI launches Copilot VisionPLUS: Infinite memory, AI companions, AI agents, and moreRowan Cheung, +1",
+  "bgm": "ambient_tech_mellow.mp3",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "asset": "assets/scene_1_ec85cfdb.jpg",
+      "caption": "Microsoft logo futuristic background"
+    },
+    {
+      "start": 3.0,
+      "end": 11.0,
+      "asset": "assets/screenshot_scene_2_d4f5ec10.png",
+      "caption": "Copilot VisionPLUS unveiled, rewriting possible."
+    },
+    {
+      "start": 11.0,
+      "end": 19.0,
+      "asset": "assets/scene_3_d560f9d1.mp4",
+      "caption": "This isn't science fiction; it's here now"
+    },
+    {
+      "start": 19.0,
+      "end": 27.0,
+      "asset": "assets/screenshot_scene_4_4854f5e6.png",
+      "caption": "Copilot VisionPLUS combines infinite memory with advanced AI companions and agents, making your productivity skyrocket"
+    },
+    {
+      "start": 27.0,
+      "end": 35.0,
+      "asset": "assets/scene_5_ff53733e.mp4",
+      "caption": "Your data is secure, and privacy is our top priority"
+    },
+    {
+      "start": 35.0,
+      "end": 45.0,
+      "asset": "assets/screenshot_scene_6_6e5eb123.png",
+      "caption": "Text overlay: 'Copilot VisionPLUS combines infinite memory with advanced AI companions and agents, making your productivity skyrocket.'"
+    },
+    {
+      "start": 45.0,
+      "end": 50.0,
+      "asset": "assets/screenshot_scene_7_89898a05.png",
+      "caption": "Clone the repo or follow for more on this game-changing development."
+    }
+  ]
+}

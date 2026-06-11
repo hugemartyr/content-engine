@@ -1,0 +1,50 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "local_path": "outputs/assets/screenshot_scene_1_dcb99892.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://videos.pexels.com/video-files/7448471/7448471-uhd_1440_2732_25fps.mp4",
+    "local_path": "outputs/assets/scene_2_229c41ad.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": 0.55
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "local_path": "outputs/assets/screenshot_scene_3_bf28977d.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://videos.pexels.com/video-files/8059182/8059182-sd_226_426_25fps.mp4",
+    "local_path": "outputs/assets/scene_4_5b0b2784.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": 0.55
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://github.com/search?q=repo cloning process, follow button",
+    "local_path": "outputs/assets/screenshot_scene_5_a74b9a94.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.55
+  },
+  {
+    "scene": 6,
+    "asset_url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "local_path": "outputs/assets/screenshot_scene_6_bb5ad517.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": 0.68
+  }
+]

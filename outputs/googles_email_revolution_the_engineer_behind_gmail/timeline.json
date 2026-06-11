@@ -1,0 +1,43 @@
+{
+  "trend_id": "youtube_Fireship_33562d6f",
+  "title": "Reel: Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+  "bgm": "tech_documentary.mp3",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "asset": "assets/screenshot_scene_1_029509f4.png",
+      "caption": "Gmail interface from 2004"
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "asset": "assets/scene_2_be79238a.mp4",
+      "caption": "Google engineer brainstorming ideas"
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "asset": "assets/screenshot_scene_3_32e69497.png",
+      "caption": "An engineer at Google had a vision for something better: simplicity through innovation"
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "asset": "assets/screenshot_scene_4_36834dea.png",
+      "caption": "He introduced features like labels and the ability to reply all, transforming email from cluttered to organized"
+    },
+    {
+      "start": 22.0,
+      "end": 30.0,
+      "asset": "assets/scene_5_cecfe7ef.mp4",
+      "caption": "This wasn't just about inbox management; it was about how we interact with information"
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "asset": "assets/screenshot_scene_6_367d1a9e.png",
+      "caption": "Clone this repo for more insights into Google's email revolution."
+    }
+  ]
+}

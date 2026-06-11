@@ -1,0 +1,175 @@
+{
+  "trend": {
+    "trend_id": "newsletter_rundown_ai_c70cbbb8",
+    "source": "newsletter",
+    "title": "Exclusive: Microsoft AI launches Copilot VisionPLUS: Infinite memory, AI companions, AI agents, and moreRowan Cheung, +1",
+    "description": "Latest edition of The Rundown AI exploring Exclusive: Microsoft AI launches Copilot VisionPLUS: Infinite memory, AI companions, AI agents, and moreRowan Cheung, +1.",
+    "url": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  "idea": "Microsoft\u2019s Copilot VisionPLUS: Your AI Superhero",
+  "script": {
+    "hook": "Microsoft just upped its AI game with Copilot VisionPLUS.",
+    "body": "Imagine an AI that remembers everything you've ever seen, heard, and done\u2014literally infinite memory. Meet Microsoft's latest superhuman helper, Copilot VisionPLUS. It\u2019s not just an AI; it\u2019s your personal digital companion for tasks big or small. From writing emails to brainstorming ideas, this tool can do it all. With more than a million downloads in 24 hours alone, it's clear why this is the future of productivity.",
+    "cta": "Clone our Copilot VisionPLUS repo now and take control."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 3.0,
+      "visual": "Microsoft logo with the text 'Microsoft just upped its AI game with Copilot VisionPLUS.'",
+      "asset_type": "LOGO",
+      "retrieval_hints": ""
+    },
+    {
+      "scene": 2,
+      "duration": 7.5,
+      "visual": "An animated character interacting with a digital interface, representing the infinite memory feature of Copilot VisionPLUS.",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "animated AI character, digital interface"
+    },
+    {
+      "scene": 3,
+      "duration": 7.5,
+      "visual": "A person using a laptop with text editing software to demonstrate email writing capabilities of Copilot VisionPLUS.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+    },
+    {
+      "scene": 4,
+      "duration": 7.5,
+      "visual": "A person brainstorming ideas on a whiteboard with Copilot VisionPLUS assisting in the process.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+    },
+    {
+      "scene": 5,
+      "duration": 7.5,
+      "visual": "A graphic showing the rapid downloads of Copilot VisionPLUS within a short period.",
+      "asset_type": "CHART",
+      "retrieval_hints": ""
+    },
+    {
+      "scene": 6,
+      "duration": 10.0,
+      "visual": "A person using their phone to clone the Copilot VisionPLUS repository, highlighting its ease of use and accessibility.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+    },
+    {
+      "scene": 7,
+      "duration": 5.0,
+      "visual": "The text 'Clone our Copilot VisionPLUS repo now and take control.'",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": ""
+    }
+  ],
+  "assets": [
+    {
+      "scene": 1,
+      "asset_url": "https://pixabay.com/get/gd788d240f21fd5a8eb9420c3faae50e026b01e0e06d7a44ffead4c602f150f54d6aed1db4d4d55770b45a1ccce44d3199508a0235d894782e416591a83bb4836_1280.jpg",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/scene_1_bf465da9.jpg",
+      "license": "pixabay",
+      "source": "pixabay",
+      "score": 0.68
+    },
+    {
+      "scene": 2,
+      "asset_url": "https://videos.pexels.com/video-files/5473972/5473972-uhd_2160_4096_25fps.mp4",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/scene_2_3d0e46d7.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.57
+    },
+    {
+      "scene": 3,
+      "asset_url": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/screenshot_scene_3_5793d54e.png",
+      "license": "local_generated",
+      "source": "screenshot_fallback",
+      "score": 0.55
+    },
+    {
+      "scene": 4,
+      "asset_url": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/screenshot_scene_4_67496fb9.png",
+      "license": "local_generated",
+      "source": "screenshot_fallback",
+      "score": 0.55
+    },
+    {
+      "scene": 5,
+      "asset_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=720&h=1280&q=80",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/scene_5_63bfcd88.jpg",
+      "license": "unsplash_free",
+      "source": "unsplash",
+      "score": 0.55
+    },
+    {
+      "scene": 6,
+      "asset_url": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/screenshot_scene_6_f01d0597.png",
+      "license": "local_generated",
+      "source": "screenshot_fallback",
+      "score": 0.55
+    },
+    {
+      "scene": 7,
+      "asset_url": "https://github.com/search?q=",
+      "local_path": "outputs/microsofts_copilot_visionplus_your_ai_superhero/assets/screenshot_scene_7_b443b2cd.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    }
+  ],
+  "timeline": {
+    "title": "Reel: Exclusive: Microsoft AI launches Copilot VisionPLUS: Infinite memory, AI companions, AI agents, and moreRowan Cheung, +1",
+    "bgm": "ambient_tech_mellow.mp3",
+    "timeline": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "asset": "assets/scene_1_bf465da9.jpg",
+        "caption": "Microsoft: Copilot VisionPLUS"
+      },
+      {
+        "start": 3.0,
+        "end": 10.5,
+        "asset": "assets/scene_2_3d0e46d7.mp4",
+        "caption": "Infinite memory recall"
+      },
+      {
+        "start": 10.5,
+        "end": 18.0,
+        "asset": "assets/screenshot_scene_3_5793d54e.png",
+        "caption": "Meet Microsoft's latest superhuman helper, Copilot VisionPLUS"
+      },
+      {
+        "start": 18.0,
+        "end": 25.5,
+        "asset": "assets/screenshot_scene_4_67496fb9.png",
+        "caption": "It\u2019s not just an AI; it\u2019s your personal digital companion for tasks big or small"
+      },
+      {
+        "start": 25.5,
+        "end": 33.0,
+        "asset": "assets/scene_5_63bfcd88.jpg",
+        "caption": "From writing emails to brainstorming ideas, this tool can do it all"
+      },
+      {
+        "start": 33.0,
+        "end": 43.0,
+        "asset": "assets/screenshot_scene_6_f01d0597.png",
+        "caption": "With more than a million downloads in 24 hours alone, it's clear why this is the future of productivity"
+      },
+      {
+        "start": 43.0,
+        "end": 48.0,
+        "asset": "assets/screenshot_scene_7_b443b2cd.png",
+        "caption": "Clone our Copilot VisionPLUS repo now and take control."
+      }
+    ]
+  }
+}

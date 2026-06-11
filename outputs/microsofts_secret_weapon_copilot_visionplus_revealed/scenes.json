@@ -1,0 +1,51 @@
+[
+  {
+    "scene": 1,
+    "duration": 3.0,
+    "visual": "Microsoft logo appearing against a futuristic background",
+    "asset_type": "LOGO",
+    "retrieval_hints": ""
+  },
+  {
+    "scene": 2,
+    "duration": 8.0,
+    "visual": "Text overlay: 'Microsoft just unveiled its new Copilot VisionPLUS, rewriting everything we thought possible.'",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+  },
+  {
+    "scene": 3,
+    "duration": 8.0,
+    "visual": "Animated AI character with a digital interface showing various tasks being completed",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "'AI character', 'digital interface'"
+  },
+  {
+    "scene": 4,
+    "duration": 8.0,
+    "visual": "Text overlay: 'Imagine an AI that remembers every detail of your life and work, a digital companion always by your side.'",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+  },
+  {
+    "scene": 5,
+    "duration": 8.0,
+    "visual": "Visual of a secure server with a lock symbol, emphasizing data security",
+    "asset_type": "STOCK",
+    "retrieval_hints": "'secure server', 'lock'"
+  },
+  {
+    "scene": 6,
+    "duration": 10.0,
+    "visual": "Text overlay: 'Copilot VisionPLUS combines infinite memory with advanced AI companions and agents, making your productivity skyrocket.'",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+  },
+  {
+    "scene": 7,
+    "duration": 5.0,
+    "visual": "Text overlay: 'Clone the repo or follow for more on this game-changing development.'",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision"
+  }
+]

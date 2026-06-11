@@ -1,0 +1,156 @@
+{
+  "trend": {
+    "trend_id": "youtube_Fireship_33562d6f",
+    "source": "youtube",
+    "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "metrics": {
+      "views": 112379,
+      "age_hours": 24.5,
+      "velocity": 4588.4
+    }
+  },
+  "idea": "Google's Email Renaissance in 2004",
+  "script": {
+    "hook": "In 2004, Google's email was about to transform tech forever.",
+    "body": "Back then, email felt like a solved problem. Yet, an engineer named Aaron Swartz saw its potential. He introduced Gmail\u2019s search feature, revolutionizing how we find emails. This simple change turned Gmail into the world\u2019s most used email service and inspired innovation in other apps by Google. It's not just about email; it's about how tech can evolve to meet user needs.",
+    "cta": "Clone this repo or follow for more on Google's Email Renaissance."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 3.0,
+      "visual": "Introduction of Aaron Swartz and Google's email transformation in 2004",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://www.youtube.com/shorts/JZeJc9Z7dOg"
+    },
+    {
+      "scene": 2,
+      "duration": 8.0,
+      "visual": "Illustration of Gmail's search feature introduction and its impact",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "gmail search feature, email revolution"
+    },
+    {
+      "scene": 3,
+      "duration": 7.0,
+      "visual": "Explanation of how Gmail\u2019s search feature inspired innovation in other Google apps",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://www.youtube.com/shorts/JZeJc9Z7dOg"
+    },
+    {
+      "scene": 4,
+      "duration": 8.0,
+      "visual": "Highlighting the broader impact of Gmail's search feature on tech evolution",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "tech innovation, user needs"
+    },
+    {
+      "scene": 5,
+      "duration": 7.0,
+      "visual": "Call to action for viewers to clone the repo or follow for more content",
+      "asset_type": "UI_CAPTURE",
+      "retrieval_hints": "repo cloning process, follow button"
+    },
+    {
+      "scene": 6,
+      "duration": 5.0,
+      "visual": "Closing shot with a thank you message and the URL to the video",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://www.youtube.com/shorts/JZeJc9Z7dOg"
+    }
+  ],
+  "assets": [
+    {
+      "scene": 1,
+      "asset_url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+      "local_path": "outputs/assets/screenshot_scene_1_dcb99892.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    },
+    {
+      "scene": 2,
+      "asset_url": "https://videos.pexels.com/video-files/7448471/7448471-uhd_1440_2732_25fps.mp4",
+      "local_path": "outputs/assets/scene_2_229c41ad.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.55
+    },
+    {
+      "scene": 3,
+      "asset_url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+      "local_path": "outputs/assets/screenshot_scene_3_bf28977d.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    },
+    {
+      "scene": 4,
+      "asset_url": "https://videos.pexels.com/video-files/8059182/8059182-sd_226_426_25fps.mp4",
+      "local_path": "outputs/assets/scene_4_5b0b2784.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.55
+    },
+    {
+      "scene": 5,
+      "asset_url": "https://github.com/search?q=repo cloning process, follow button",
+      "local_path": "outputs/assets/screenshot_scene_5_a74b9a94.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    },
+    {
+      "scene": 6,
+      "asset_url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+      "local_path": "outputs/assets/screenshot_scene_6_bb5ad517.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.68
+    }
+  ],
+  "timeline": {
+    "title": "Reel: Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+    "bgm": "tech_documentary.mp3",
+    "timeline": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "asset": "screenshot_scene_1_dcb99892.png",
+        "caption": "Aaron Swartz: Gmail's Search Revolution in 2004"
+      },
+      {
+        "start": 3.0,
+        "end": 11.0,
+        "asset": "scene_2_229c41ad.mp4",
+        "caption": "Gmail Search: Changing Email Forever"
+      },
+      {
+        "start": 11.0,
+        "end": 18.0,
+        "asset": "screenshot_scene_3_bf28977d.png",
+        "caption": "Yet, an engineer named Aaron Swartz saw its potential"
+      },
+      {
+        "start": 18.0,
+        "end": 26.0,
+        "asset": "scene_4_5b0b2784.mp4",
+        "caption": "He introduced Gmail\u2019s search feature, revolutionizing how we find emails"
+      },
+      {
+        "start": 26.0,
+        "end": 33.0,
+        "asset": "screenshot_scene_5_a74b9a94.png",
+        "caption": "This simple change turned Gmail into the world\u2019s most used email service and inspired innovation in other apps by Google"
+      },
+      {
+        "start": 33.0,
+        "end": 38.0,
+        "asset": "screenshot_scene_6_bb5ad517.png",
+        "caption": "Clone this repo or follow for more on Google's Email Renaissance."
+      }
+    ]
+  }
+}

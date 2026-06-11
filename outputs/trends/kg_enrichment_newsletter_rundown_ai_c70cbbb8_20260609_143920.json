@@ -1,0 +1,20 @@
+{
+  "trend_id": "newsletter_rundown_ai_c70cbbb8",
+  "related_entities": [
+    {
+      "name": "Microsoft",
+      "type": "Company",
+      "description": "A technology company"
+    },
+    {
+      "name": "Copilot VisionPLUS",
+      "type": "Product",
+      "description": "Latest edition of Microsoft AI product"
+    }
+  ],
+  "relations": [],
+  "related_topics": [
+    "AI",
+    "Technology"
+  ]
+}

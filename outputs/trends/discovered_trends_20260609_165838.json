@@ -1,0 +1,380 @@
+[
+  {
+    "trend_id": "github_Snailclimb_JavaGuide",
+    "source": "github",
+    "title": "Snailclimb/JavaGuide",
+    "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "metrics": {
+      "stars": 156245,
+      "forks": 46137,
+      "readme_summary": "- \u63a8\u8350\u5728\u7ebf\u9605\u8bfb\uff08\u4f53\u9a8c\u66f4\u597d\uff0c\u901f\u5ea6\u66f4\u5feb\uff09\uff1a[javaguide.cn](https://javaguide.cn/)\n- \u9762\u8bd5\u7a81\u51fb\u7248\u672c\uff08\u53ea\u4fdd\u7559\u91cd\u70b9\uff0c\u9644\u5e26\u7cbe\u7f8e PDF \u4e0b\u8f7d\uff09\uff1a[interview.javaguide.cn](https://interview.javaguide.cn/)\n\n<div align=\"center\">\n\n[![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)\n\n[GitHub](https://github.com/Snailclimb/JavaGuide) | [Gitee](https://gitee.com/SnailClimb/JavaGuide)\n\n<a href=\"https://trendshift.io/repositories/1319\" target=\"_blank\"><img src=\"https://trendshift...."
+    }
+  },
+  {
+    "trend_id": "github_langflow-ai_langflow",
+    "source": "github",
+    "title": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "url": "https://github.com/langflow-ai/langflow",
+    "metrics": {
+      "stars": 149442,
+      "forks": 9221,
+      "readme_summary": "<!-- markdownlint-disable MD030 -->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/langflow-logo-color-blue-bg.svg\">\n  <img src=\"./docs/static/img/langflow-logo-color-black-solid.svg\" alt=\"Langflow logo\">\n</picture>\n\n[![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases)\n[![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/license..."
+    }
+  },
+  {
+    "trend_id": "github_langgenius_dify",
+    "source": "github",
+    "title": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "url": "https://github.com/langgenius/dify",
+    "metrics": {
+      "stars": 144535,
+      "forks": 22745,
+      "readme_summary": "![cover-v5-optimized](./images/GitHub_README_if.png)\n\n<p align=\"center\">\n  <a href=\"https://cloud.dify.ai\">Dify Cloud</a> \u00b7\n  <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> \u00b7\n  <a href=\"https://docs.dify.ai\">Documentation</a> \u00b7\n  <a href=\"https://dify.ai/pricing\">Dify edition overview</a>\n</p>\n\n<p align=\"center\">\n    <a href=\"https://dify.ai\" target=\"_blank\">\n        <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/Product-F04438\"></a>\n    <a href=\"h..."
+    }
+  },
+  {
+    "trend_id": "github_x1xhlol_system-prompts-and-models-of-ai-tools",
+    "source": "github",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "metrics": {
+      "stars": 138992,
+      "forks": 34543,
+      "readme_summary": "<p align=\"center\">\n  <sub>Thanks to</sub>  \n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/latitude-dev/latitude-llm\">\n    <img src=\"assets/latitude-dark.png\" alt=\"Latitude Logo\" width=\"700\"/>\n  </a>\n</p>\n\n<div align=\"center\" markdown=\"1\">\n\n### [Issue Tracking for AI Agents](https://github.com/latitude-dev/latitude-llm)  \n[Open Source Monitoring platform](https://github.com/latitude-dev/latitude-llm)\n\n</div>\n\n---\n\n<a href=\"https://discord.gg/NwzrWErdMU\" target=\"_blank\">\n  <img src=\"https..."
+    }
+  },
+  {
+    "trend_id": "github_Shubhamsaboo_awesome-llm-apps",
+    "source": "github",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "metrics": {
+      "stars": 113995,
+      "forks": 16915,
+      "readme_summary": "<p align=\"center\">\n  <a href=\"http://www.theunwindai.com\">\n    <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.linkedin.com/in/shubhamsaboo/\">\n    <img src=\"https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\">\n  </a>\n  <a href=\"https://twitter.com/Saboo_Shubham_\">\n    <img src=\"https://img.shields.io/badge/Follow%20on%20\ud835\udd4f-000000?style=for-the-badg..."
+    }
+  },
+  {
+    "trend_id": "github_msitarzewski_agency-agents",
+    "source": "github",
+    "title": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "metrics": {
+      "stars": 108761,
+      "forks": 17910,
+      "readme_summary": "# \ud83c\udfad The Agency: AI Specialists Ready to Transform Your Workflow\n\n> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yell..."
+    }
+  },
+  {
+    "trend_id": "github_google-gemini_gemini-cli",
+    "source": "github",
+    "title": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "metrics": {
+      "stars": 105078,
+      "forks": 14016,
+      "readme_summary": "# Gemini CLI\n\n[![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)\n[![Gemini CLI E2E (Chained)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml)\n[![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)\n[![Lice..."
+    }
+  },
+  {
+    "trend_id": "github_browser-use_browser-use",
+    "source": "github",
+    "title": "browser-use/browser-use",
+    "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "url": "https://github.com/browser-use/browser-use",
+    "metrics": {
+      "stars": 97900,
+      "forks": 10928,
+      "readme_summary": "<picture>\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\">\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\">\n  <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"  width=\"full\">\n</picture>\n\n<d..."
+    }
+  },
+  {
+    "trend_id": "github_karpathy_autoresearch",
+    "source": "github",
+    "title": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "url": "https://github.com/karpathy/autoresearch",
+    "metrics": {
+      "stars": 85720,
+      "forks": 12417,
+      "readme_summary": "# autoresearch\n\n![teaser](progress.png)\n\n*One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing once in a while using sound wave interconnect in the ritual of \"group meeting\". That era is long gone. Research is now entirely the domain of autonomous swarms of AI agents running across compute cluster megastructures in the skies. The agents claim that we are now in the 10,205th generation of the code base, in any case no one..."
+    }
+  },
+  {
+    "trend_id": "github_thedotmack_claude-mem",
+    "source": "github",
+    "title": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "metrics": {
+      "stars": 81402,
+      "forks": 7011,
+      "readme_summary": "<h1 align=\"center\">\n  <br>\n  <a href=\"https://github.com/thedotmack/claude-mem\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\">\n      <img src=\"https://raw.githubusercontent.com/thedotmack/clau..."
+    }
+  },
+  {
+    "trend_id": "reddit_AI_Agents_ecc07569",
+    "source": "reddit",
+    "title": "Best Agentic Frameworks in 2026, Ranked by What You\u2019re Actually Building",
+    "description": "Trending discussion in r/AI_Agents.",
+    "url": "https://reddit.com/r/AI_Agents/comments/1tuum2e/best_agentic_frameworks_in_2026_ranked_by_what/",
+    "metrics": {
+      "upvotes": 776,
+      "comments": 297,
+      "post_age_hours": 6.3
+    }
+  },
+  {
+    "trend_id": "reddit_AI_Agents_168438c7",
+    "source": "reddit",
+    "title": "Which framework feels most production-ready today: LangGraph, CrewAI, AutoGen, or OpenAI Agents?",
+    "description": "Trending discussion in r/AI_Agents.",
+    "url": "https://reddit.com/r/AI_Agents/comments/1twixwr/which_framework_feels_most_productionready_today/",
+    "metrics": {
+      "upvotes": 118,
+      "comments": 104,
+      "post_age_hours": 66.3
+    }
+  },
+  {
+    "trend_id": "reddit_AI_Agents_7375980b",
+    "source": "reddit",
+    "title": "At this point I genuinely can\u2019t tell where AI workflows end and AI agents begin",
+    "description": "Trending discussion in r/AI_Agents.",
+    "url": "https://reddit.com/r/AI_Agents/comments/1u121or/at_this_point_i_genuinely_cant_tell_where_ai/",
+    "metrics": {
+      "upvotes": 1137,
+      "comments": 313,
+      "post_age_hours": 49.6
+    }
+  },
+  {
+    "trend_id": "reddit_automation_cc03bc45",
+    "source": "reddit",
+    "title": "Best AI Agent Builders as of 2026, Ranked by Use Case",
+    "description": "Trending discussion in r/automation.",
+    "url": "https://reddit.com/r/automation/comments/1tuugzk/best_ai_agent_builders_as_of_2026_ranked_by_use/",
+    "metrics": {
+      "upvotes": 158,
+      "comments": 27,
+      "post_age_hours": 29.0
+    }
+  },
+  {
+    "trend_id": "reddit_AI_Agents_bd7806a4",
+    "source": "reddit",
+    "title": "What actually works in agentic ai ?",
+    "description": "Trending discussion in r/AI_Agents.",
+    "url": "https://reddit.com/r/AI_Agents/comments/1tw4jnk/what_actually_works_in_agentic_ai/",
+    "metrics": {
+      "upvotes": 691,
+      "comments": 347,
+      "post_age_hours": 33.7
+    }
+  },
+  {
+    "trend_id": "reddit_LangChain_80704cec",
+    "source": "reddit",
+    "title": "The AI Agent Learning Resource I Wish Existed Earlier",
+    "description": "Trending discussion in r/LangChain.",
+    "url": "https://reddit.com/r/LangChain/comments/1tyfnlp/the_ai_agent_learning_resource_i_wish_existed/",
+    "metrics": {
+      "upvotes": 747,
+      "comments": 173,
+      "post_age_hours": 24.5
+    }
+  },
+  {
+    "trend_id": "reddit_wallstreetbets_3112f481",
+    "source": "reddit",
+    "title": "In the AI Gold Rush, What Are the Shovels?",
+    "description": "Trending discussion in r/wallstreetbets.",
+    "url": "https://reddit.com/r/wallstreetbets/comments/1tuwp73/in_the_ai_gold_rush_what_are_the_shovels/",
+    "metrics": {
+      "upvotes": 389,
+      "comments": 251,
+      "post_age_hours": 45.3
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_33562d6f",
+    "source": "youtube",
+    "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "metrics": {
+      "views": 102711,
+      "age_hours": 28.7,
+      "velocity": 3581.3
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_85df6794",
+    "source": "youtube",
+    "title": "Learn Docker \u2013 Full DevOps Course for Deploying Containerized Apps",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/watch?v=rjjES5IsPdg",
+    "metrics": {
+      "views": 29943,
+      "age_hours": 147.0,
+      "velocity": 203.7
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_d10a7208",
+    "source": "newsletter",
+    "title": "Apple\u2019s new Siri AI overhaul is here (sort of)PLUS: The new \u2018third phase\u2019 of OpenAIZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Apple\u2019s new Siri AI overhaul is here (sort of)PLUS: The new \u2018third phase\u2019 of OpenAIZach Mink, +4.",
+    "url": "https://therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_c49bd171",
+    "source": "newsletter",
+    "title": "Washington wants a piece of OpenAI PLUS: Find five prospects a day with this agentic frameworkZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Washington wants a piece of OpenAI PLUS: Find five prospects a day with this agentic frameworkZach Mink, +4.",
+    "url": "https://therundown.ai/p/washington-wants-a-piece-of-openai",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_2e88aedb",
+    "source": "newsletter",
+    "title": "Ideogram and Reve rethink how AI images get madePLUS: Automate your social content calendar with ManusZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Ideogram and Reve rethink how AI images get madePLUS: Automate your social content calendar with ManusZach Mink, +4.",
+    "url": "https://therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_c215fa61",
+    "source": "newsletter",
+    "title": "Microsoft paves its own AI way at BuildPLUS: Legendary Hollywood director opens the door to AIZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Microsoft paves its own AI way at BuildPLUS: Legendary Hollywood director opens the door to AIZach Mink, +4.",
+    "url": "https://therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_ae578666",
+    "source": "newsletter",
+    "title": "Nvidia corners the AI agent stackPLUS: Turn Claude sessions into better skills with a daily auditZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Nvidia corners the AI agent stackPLUS: Turn Claude sessions into better skills with a daily auditZach Mink, +4.",
+    "url": "https://therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_51b9124f",
+    "source": "newsletter",
+    "title": "AI's next dataset is your apartmentPLUS: Build a custom blog writing agent with no codeZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring AI's next dataset is your apartmentPLUS: Build a custom blog writing agent with no codeZach Mink, +4.",
+    "url": "https://therundown.ai/p/ai-next-dataset-is-your-apartment",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_3d32146e",
+    "source": "newsletter",
+    "title": "Anthropic just eclipsed OpenAIPLUS: Use Codex to build a functional game in one promptZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Anthropic just eclipsed OpenAIPLUS: Use Codex to build a functional game in one promptZach Mink, +4.",
+    "url": "https://therundown.ai/p/anthropic-just-eclipsed-openai",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_b4dbe12f",
+    "source": "newsletter",
+    "title": "Exclusive interview: Sam Altman on Dev Day and AI's future PLUS: Google releases Gemini Computer Use for AI browser controlZach Mink, +4",
+    "description": "Latest edition of The Rundown AI exploring Exclusive interview: Sam Altman on Dev Day and AI's future PLUS: Google releases Gemini Computer Use for AI browser controlZach Mink, +4.",
+    "url": "https://therundown.ai/p/exclusive-interview-sam-altman-on-dev-day-and-ais-future",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_fdd17f61",
+    "source": "newsletter",
+    "title": "Exclusive: The enterprise AI playbookBring AI to your data anywhere with security, trust, and governance baked inShubham Sharma, +2",
+    "description": "Latest edition of The Rundown AI exploring Exclusive: The enterprise AI playbookBring AI to your data anywhere with security, trust, and governance baked inShubham Sharma, +2.",
+    "url": "https://therundown.ai/p/exclusive-the-enterprise-ai-playbook",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_b301a394",
+    "source": "newsletter",
+    "title": "Exclusive interview: Inside Meta's AI glasses master planMark Zuckerberg on neural control, superintelligence, and AI coachingRowan Cheung, +2",
+    "description": "Latest edition of The Rundown AI exploring Exclusive interview: Inside Meta's AI glasses master planMark Zuckerberg on neural control, superintelligence, and AI coachingRowan Cheung, +2.",
+    "url": "https://therundown.ai/p/inside-metas-ai-glasses-master-plan",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_10b2e9fd",
+    "source": "newsletter",
+    "title": "Exclusive: Microsoft's hybrid AI visionPLUS: Copilot+ PCs, NPUs, agentic AI, and moreRowan Cheung",
+    "description": "Latest edition of The Rundown AI exploring Exclusive: Microsoft's hybrid AI visionPLUS: Copilot+ PCs, NPUs, agentic AI, and moreRowan Cheung.",
+    "url": "https://therundown.ai/p/microsofts-hybrid-ai-vision",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_258d4474",
+    "source": "newsletter",
+    "title": "Dropbox redefines the future of work with DashDropbox\u2019s Fall 2025 release brings AI deeper into teams workflowsRowan Cheung",
+    "description": "Latest edition of The Rundown AI exploring Dropbox redefines the future of work with DashDropbox\u2019s Fall 2025 release brings AI deeper into teams workflowsRowan Cheung.",
+    "url": "https://therundown.ai/p/dropbox-redefines-the-future-of-work-with-dash",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_310ba84b",
+    "source": "newsletter",
+    "title": "Exclusive: UiPath launches next-gen platform for 'Agentic Automation'PLUS: How agents are transforming the future of workRowan Cheung",
+    "description": "Latest edition of The Rundown AI exploring Exclusive: UiPath launches next-gen platform for 'Agentic Automation'PLUS: How agents are transforming the future of workRowan Cheung.",
+    "url": "https://therundown.ai/p/ui-path-launches-agentic-automation-platform",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_cffd33cc",
+    "source": "newsletter",
+    "title": "Exclusive: Cisco launches AI DefensePLUS: Free event to learn from OpenAI, Scale AI, and moreRowan Cheung, +1",
+    "description": "Latest edition of The Rundown AI exploring Exclusive: Cisco launches AI DefensePLUS: Free event to learn from OpenAI, Scale AI, and moreRowan Cheung, +1.",
+    "url": "https://therundown.ai/p/cisco-announces-ai-defense",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_c70cbbb8",
+    "source": "newsletter",
+    "title": "Exclusive: Microsoft AI launches Copilot VisionPLUS: Infinite memory, AI companions, AI agents, and moreRowan Cheung, +1",
+    "description": "Latest edition of The Rundown AI exploring Exclusive: Microsoft AI launches Copilot VisionPLUS: Infinite memory, AI companions, AI agents, and moreRowan Cheung, +1.",
+    "url": "https://therundown.ai/p/microsoft-ai-launches-copilot-vision",
+    "metrics": {
+      "newsletter_source": "Rundown AI"
+    }
+  }
+]

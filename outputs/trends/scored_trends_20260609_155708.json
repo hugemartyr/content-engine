@@ -1,0 +1,530 @@
+[
+  {
+    "trend_id": "newsletter_rundown_ai_c70cbbb8",
+    "score": 7.6,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 9.0,
+      "visual_potential": 8.0,
+      "technical_depth": 7.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_bcf04ba7",
+    "score": 7.55,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 9.0,
+      "visual_potential": 7.0,
+      "technical_depth": 8.0
+    }
+  },
+  {
+    "trend_id": "reddit_MBA_c81e23a9",
+    "score": 7.42,
+    "breakdown": {
+      "freshness": 10.0,
+      "virality": 8.7,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_d40dde21",
+    "score": 7.4,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 9.0,
+      "visual_potential": 6.0,
+      "technical_depth": 8.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_b6935320",
+    "score": 7.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 7.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_998cea6c",
+    "score": 7.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 7.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_1068e5d7",
+    "score": 7.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 7.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_2e88aedb",
+    "score": 7.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 7.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_51b9124f",
+    "score": 7.1,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 7.0,
+      "visual_potential": 8.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_b301a394",
+    "score": 7.1,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 6.0,
+      "technical_depth": 7.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_258d4474",
+    "score": 7.0,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 7.0,
+      "visual_potential": 6.0,
+      "technical_depth": 8.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_b096761c",
+    "score": 6.95,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 5.0,
+      "technical_depth": 7.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_6eeb59a6",
+    "score": 6.85,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 3.0,
+      "technical_depth": 9.0
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_33562d6f",
+    "score": 6.83,
+    "breakdown": {
+      "freshness": 9.7,
+      "virality": 6.7,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_1d4a3486",
+    "score": 6.65,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 7.0,
+      "visual_potential": 3.0,
+      "technical_depth": 9.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_697f836a",
+    "score": 6.55,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 8.0,
+      "visual_potential": 3.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "reddit_ITCareerQuestions_8bdb0b1b",
+    "score": 6.29,
+    "breakdown": {
+      "freshness": 7.37,
+      "virality": 7.3,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_24e8067d",
+    "score": 6.25,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 7.0,
+      "visual_potential": 3.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_d10a7208",
+    "score": 6.25,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 6.0,
+      "visual_potential": 5.0,
+      "technical_depth": 4.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_188d4ccf",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_2335d573",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_45b53760",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_615c1ba3",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_1aae6a7b",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_c49bd171",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_c215fa61",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_ae578666",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_3d32146e",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_b4dbe12f",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_fdd17f61",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 3.0,
+      "technical_depth": 8.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_10b2e9fd",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_310ba84b",
+    "score": 6.15,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "newsletter_rundown_ai_cffd33cc",
+    "score": 5.95,
+    "breakdown": {
+      "freshness": 8.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 3.0,
+      "technical_depth": 6.0
+    }
+  },
+  {
+    "trend_id": "github_Aryia-Behroziuan_Other-sources",
+    "score": 5.85,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": 0.8,
+      "novelty": 8.0,
+      "visual_potential": 4.0,
+      "technical_depth": 9.0
+    }
+  },
+  {
+    "trend_id": "github_Codism66_Top-Custom-Application-Development-in-USA---Codism-",
+    "score": 5.65,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": 1.0,
+      "novelty": 5.0,
+      "visual_potential": 7.0,
+      "technical_depth": 8.0
+    }
+  },
+  {
+    "trend_id": "reddit_UGCForBrands_0e92ee31",
+    "score": 5.37,
+    "breakdown": {
+      "freshness": 3.4,
+      "virality": 8.4,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "github_sneha-bhardwaj7_Tech_infofrmation",
+    "score": 5.05,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": 1.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "github_himanshupahwaa_StockAnalysisApp",
+    "score": 5.05,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": 1.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "github_janvi-04_Conversational-Fashion-Outfit-Generator-GEN-AI",
+    "score": 4.75,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": -4.0,
+      "novelty": 9.0,
+      "visual_potential": 6.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "github_Alex7020_Edge-Ai-Software-Market-2022-by-Technology-Equipment-Product-Type-Packaging-Material-and-Region",
+    "score": 4.7,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": 1.0,
+      "novelty": 3.0,
+      "visual_potential": 4.0,
+      "technical_depth": 7.0
+    }
+  },
+  {
+    "trend_id": "reddit_developersIndia_d1afb650",
+    "score": 4.44,
+    "breakdown": {
+      "freshness": 7.05,
+      "virality": 4.1,
+      "novelty": 3.0,
+      "visual_potential": 2.0,
+      "technical_depth": 4.0
+    }
+  },
+  {
+    "trend_id": "github_Codism66_Top-Custom-Application-Development-in-USA---Codism",
+    "score": 4.3,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": 1.0,
+      "novelty": 1.0,
+      "visual_potential": 4.0,
+      "technical_depth": 7.0
+    }
+  },
+  {
+    "trend_id": "github_Iankulani_Fun-Corner4541-",
+    "score": 4.15,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": -2.6,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "reddit_indiehackers_b0b9c846",
+    "score": 4.05,
+    "breakdown": {
+      "freshness": 1.0,
+      "virality": 6.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "reddit_ChatGPT_8d5c2d14",
+    "score": 3.9,
+    "breakdown": {
+      "freshness": 1.4,
+      "virality": 4.9,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "github_Codism66_Top-Custom-Application-Development-in-USA---Codism-USA",
+    "score": 3.8,
+    "breakdown": {
+      "freshness": 8.5,
+      "virality": -4.0,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_85df6794",
+    "score": 3.27,
+    "breakdown": {
+      "freshness": 1.0,
+      "virality": 2.9,
+      "novelty": 5.0,
+      "visual_potential": 5.0,
+      "technical_depth": 5.0
+    }
+  },
+  {
+    "trend_id": "reddit_VideoEditingJobs_a8685e2f",
+    "score": 2.85,
+    "breakdown": {
+      "freshness": 3.15,
+      "virality": 3.2,
+      "novelty": 2.0,
+      "visual_potential": 4.0,
+      "technical_depth": 1.0
+    }
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "trend_id": "github_Significant-Gravitas_AutoGPT",
+  "title": "Reel: Significant-Gravitas/AutoGPT",
+  "bgm": "ambient_tech_mellow.mp3",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "asset": "screenshot_scene_1_9c02a534.png",
+      "caption": "Laptop screen with AutoGPT logo"
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "asset": "screenshot_scene_2_406c52fd.png",
+      "caption": "Unlock the power of AI with AutoGPT."
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "asset": "screenshot_scene_3_ceff7d61.png",
+      "caption": "It's not just about building AI models; it\u2019s about empowering individuals and communities through tools designed to simplify complex tasks"
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "asset": "screenshot_scene_4_338f60c4.png",
+      "caption": "By leveraging AutoGPT, you can focus on innovation rather than technical hurdles"
+    },
+    {
+      "start": 22.0,
+      "end": 29.0,
+      "asset": "screenshot_scene_5_0f3b862c.png",
+      "caption": "Text overlay: 'By leveraging AutoGPT, you can focus on innovation rather than technical hurdles.'"
+    },
+    {
+      "start": 29.0,
+      "end": 37.0,
+      "asset": "screenshot_scene_6_90761f8b.png",
+      "caption": "Text overlay: 'Clone the AutoGPT repository today or follow us to stay ahead of the AI curve.'"
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "asset": "screenshot_scene_7_042f56e2.png",
+      "caption": "Clone the AutoGPT repository today or follow us to stay ahead of the AI curve."
+    }
+  ]
+}

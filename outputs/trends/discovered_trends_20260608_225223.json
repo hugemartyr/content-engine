@@ -1,0 +1,212 @@
+[
+  {
+    "trend_id": "github_Snailclimb_JavaGuide",
+    "source": "github",
+    "title": "Snailclimb/JavaGuide",
+    "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "metrics": {
+      "stars": 156223,
+      "forks": 46132,
+      "readme_summary": "- \u63a8\u8350\u5728\u7ebf\u9605\u8bfb\uff08\u4f53\u9a8c\u66f4\u597d\uff0c\u901f\u5ea6\u66f4\u5feb\uff09\uff1a[javaguide.cn](https://javaguide.cn/)\n- \u9762\u8bd5\u7a81\u51fb\u7248\u672c\uff08\u53ea\u4fdd\u7559\u91cd\u70b9\uff0c\u9644\u5e26\u7cbe\u7f8e PDF \u4e0b\u8f7d\uff09\uff1a[interview.javaguide.cn](https://interview.javaguide.cn/)\n\n<div align=\"center\">\n\n[![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)\n\n[GitHub](https://github.com/Snailclimb/JavaGuide) | [Gitee](https://gitee.com/SnailClimb/JavaGuide)\n\n<a href=\"https://trendshift.io/repositories/1319\" target=\"_blank\"><img src=\"https://trendshift...."
+    }
+  },
+  {
+    "trend_id": "github_langflow-ai_langflow",
+    "source": "github",
+    "title": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "url": "https://github.com/langflow-ai/langflow",
+    "metrics": {
+      "stars": 149412,
+      "forks": 9217,
+      "readme_summary": "<!-- markdownlint-disable MD030 -->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/langflow-logo-color-blue-bg.svg\">\n  <img src=\"./docs/static/img/langflow-logo-color-black-solid.svg\" alt=\"Langflow logo\">\n</picture>\n\n[![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases)\n[![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/license..."
+    }
+  },
+  {
+    "trend_id": "github_langgenius_dify",
+    "source": "github",
+    "title": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "url": "https://github.com/langgenius/dify",
+    "metrics": {
+      "stars": 144432,
+      "forks": 22736,
+      "readme_summary": "![cover-v5-optimized](./images/GitHub_README_if.png)\n\n<p align=\"center\">\n  <a href=\"https://cloud.dify.ai\">Dify Cloud</a> \u00b7\n  <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> \u00b7\n  <a href=\"https://docs.dify.ai\">Documentation</a> \u00b7\n  <a href=\"https://dify.ai/pricing\">Dify edition overview</a>\n</p>\n\n<p align=\"center\">\n    <a href=\"https://dify.ai\" target=\"_blank\">\n        <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/Product-F04438\"></a>\n    <a href=\"h..."
+    }
+  },
+  {
+    "trend_id": "github_x1xhlol_system-prompts-and-models-of-ai-tools",
+    "source": "github",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "metrics": {
+      "stars": 138948,
+      "forks": 34539,
+      "readme_summary": "<p align=\"center\">\n  <sub>Thanks to</sub>  \n</p>\n\n<p align=\"center\">\n  <a href=\"https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship\">\n    <img src=\"assets/latitude-dark.png\" alt=\"Latitude Logo\" width=\"700\"/>\n  </a>\n</p>\n\n<div align=\"center\" markdown=\"1\">\n\n### [Issue Tracking for AI Agents](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)  \n[Open Source Monitoring platform](https://latitude.so/?utm_source=github&utm_medium=readme&utm..."
+    }
+  },
+  {
+    "trend_id": "github_Shubhamsaboo_awesome-llm-apps",
+    "source": "github",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "metrics": {
+      "stars": 113869,
+      "forks": 16903,
+      "readme_summary": "<p align=\"center\">\n  <a href=\"http://www.theunwindai.com\">\n    <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.linkedin.com/in/shubhamsaboo/\">\n    <img src=\"https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\">\n  </a>\n  <a href=\"https://twitter.com/Saboo_Shubham_\">\n    <img src=\"https://img.shields.io/badge/Follow%20on%20\ud835\udd4f-000000?style=for-the-badg..."
+    }
+  },
+  {
+    "trend_id": "github_msitarzewski_agency-agents",
+    "source": "github",
+    "title": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "metrics": {
+      "stars": 108464,
+      "forks": 17864,
+      "readme_summary": "# \ud83c\udfad The Agency: AI Specialists Ready to Transform Your Workflow\n\n> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yell..."
+    }
+  },
+  {
+    "trend_id": "github_google-gemini_gemini-cli",
+    "source": "github",
+    "title": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "metrics": {
+      "stars": 105072,
+      "forks": 14028,
+      "readme_summary": "# Gemini CLI\n\n[![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)\n[![Gemini CLI E2E (Chained)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml)\n[![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)\n[![Lice..."
+    }
+  },
+  {
+    "trend_id": "github_browser-use_browser-use",
+    "source": "github",
+    "title": "browser-use/browser-use",
+    "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "url": "https://github.com/browser-use/browser-use",
+    "metrics": {
+      "stars": 97775,
+      "forks": 10928,
+      "readme_summary": "<picture>\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\">\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\">\n  <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"  width=\"full\">\n</picture>\n\n<d..."
+    }
+  },
+  {
+    "trend_id": "github_karpathy_autoresearch",
+    "source": "github",
+    "title": "karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "url": "https://github.com/karpathy/autoresearch",
+    "metrics": {
+      "stars": 85631,
+      "forks": 12405,
+      "readme_summary": "# autoresearch\n\n![teaser](progress.png)\n\n*One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing once in a while using sound wave interconnect in the ritual of \"group meeting\". That era is long gone. Research is now entirely the domain of autonomous swarms of AI agents running across compute cluster megastructures in the skies. The agents claim that we are now in the 10,205th generation of the code base, in any case no one..."
+    }
+  },
+  {
+    "trend_id": "github_thedotmack_claude-mem",
+    "source": "github",
+    "title": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "metrics": {
+      "stars": 81263,
+      "forks": 6997,
+      "readme_summary": "<h1 align=\"center\">\n  <br>\n  <a href=\"https://github.com/thedotmack/claude-mem\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\">\n      <img src=\"https://raw.githubusercontent.com/thedotmack/clau..."
+    }
+  },
+  {
+    "trend_id": "reddit_LocalLLaMA_e130e094",
+    "source": "reddit",
+    "title": "Is anyone else blown away by the new AI agent frameworks framework released yesterday? Benchmarks are insane.",
+    "description": "Trending discussion in r/LocalLLaMA.",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/mock1",
+    "metrics": {
+      "upvotes": 850,
+      "comments": 142,
+      "post_age_hours": 12.5
+    }
+  },
+  {
+    "trend_id": "reddit_MachineLearning_cfc6f7ff",
+    "source": "reddit",
+    "title": "[D] State of the art AI agent frameworks comparison: Claude 3.5 vs Gemini 1.5 vs OpenAI Swarm. A detailed deep dive.",
+    "description": "Trending discussion in r/MachineLearning.",
+    "url": "https://reddit.com/r/MachineLearning/comments/mock2",
+    "metrics": {
+      "upvotes": 420,
+      "comments": 89,
+      "post_age_hours": 36.0
+    }
+  },
+  {
+    "trend_id": "reddit_singularity_7b799418",
+    "source": "reddit",
+    "title": "Just built a fully autonomous AI agent frameworks team to build an entire SaaS from scratch. Here's what I learned.",
+    "description": "Trending discussion in r/singularity.",
+    "url": "https://reddit.com/r/singularity/comments/mock3",
+    "metrics": {
+      "upvotes": 1250,
+      "comments": 310,
+      "post_age_hours": 6.0
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_33562d6f",
+    "source": "youtube",
+    "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "metrics": {
+      "views": 163494,
+      "age_hours": 10.6,
+      "velocity": 15450.0
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_85df6794",
+    "source": "youtube",
+    "title": "Learn Docker \u2013 Full DevOps Course for Deploying Containerized Apps",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/watch?v=rjjES5IsPdg",
+    "metrics": {
+      "views": 33582,
+      "age_hours": 128.9,
+      "velocity": 260.6
+    }
+  },
+  {
+    "trend_id": "newsletter_tldr_ai_a661e0a6",
+    "source": "newsletter",
+    "title": "The Rise of AI agent frameworks: Architectural Guide",
+    "description": "This week, we dive deep into the explosion of AI agent frameworks. Top venture funds are backing new startups building agents, and the open-source community is moving faster than ever.",
+    "url": "https://tldr.tech/ai/2026-06-08",
+    "metrics": {
+      "newsletter_source": "TLDR AI"
+    }
+  },
+  {
+    "trend_id": "newsletter_ben's_bites_1334a176",
+    "source": "newsletter",
+    "title": "Inside the latest AI agent frameworks framework battle",
+    "description": "Why developers are abandoning traditional chains for stateful graphs. A breakdown of the new AI agent frameworks framework that is taking over GitHub. Everything you need to know.",
+    "url": "https://bensbites.beehiiv.com/p/inside-the-battle",
+    "metrics": {
+      "newsletter_source": "Ben's Bites"
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_2f08d65c",
+    "source": "newsletter",
+    "title": "Podcast: The Engineering behind AI agent frameworks",
+    "description": "An in-depth conversation with the founders of the leading AI agent frameworks repository, discussing memory, tool schemas, and multi-agent latency.",
+    "url": "https://www.latent.space/p/engineering-of-agents",
+    "metrics": {
+      "newsletter_source": "Latent Space"
+    }
+  }
+]

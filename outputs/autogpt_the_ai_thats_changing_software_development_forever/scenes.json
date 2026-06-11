@@ -1,0 +1,51 @@
+[
+  {
+    "scene": 1,
+    "duration": 3.0,
+    "visual": "Opening shot of a laptop screen displaying the AutoGPT logo",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "scene": 2,
+    "duration": 8.0,
+    "visual": "Animation of a person using AutoGPT to streamline their coding process, with text overlays explaining the benefits",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "'coding on laptop close up', 'abstract server wires'"
+  },
+  {
+    "scene": 3,
+    "duration": 7.0,
+    "visual": "Visual of a person writing code with AutoGPT, showing how it automates repetitive tasks",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "scene": 4,
+    "duration": 8.0,
+    "visual": "A person working on a complex project, with AutoGPT assisting in the background",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "'coding on laptop close up', 'abstract server wires'"
+  },
+  {
+    "scene": 5,
+    "duration": 8.0,
+    "visual": "A person innovating and focusing on the creative aspects of software development with AutoGPT's help",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "scene": 6,
+    "duration": 8.0,
+    "visual": "A person coding with AutoGPT, showcasing the tool's impact on productivity and efficiency",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "'coding on laptop close up', 'abstract server wires'"
+  },
+  {
+    "scene": 7,
+    "duration": 5.0,
+    "visual": "Closing shot of the AutoGPT logo with a call to action: 'Clone our repository today and see for yourself! Clone Repo'",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "https://github.com/Significant-Gravitas/AutoGPT"
+  }
+]

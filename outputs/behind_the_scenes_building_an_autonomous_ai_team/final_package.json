@@ -1,0 +1,177 @@
+{
+  "trend": {
+    "trend_id": "reddit_singularity_9a1ff3c3",
+    "source": "reddit",
+    "title": "Just built a fully autonomous Latest Trends in AI and it's application  team to build an entire SaaS from scratch. Here's what I learned.",
+    "description": "Trending discussion in r/singularity.",
+    "url": "https://reddit.com/r/singularity/comments/mock3",
+    "metrics": {
+      "upvotes": 1250,
+      "comments": 310,
+      "post_age_hours": 6.0
+    }
+  },
+  "idea": "Behind-the-Scenes: Building an Autonomous AI Team",
+  "script": {
+    "hook": "Built an autonomous AI team, now what?",
+    "body": "In just a few weeks, I've assembled a fully autonomous AI team focused on cutting-edge SaaS development. We're diving deep into the latest trends in singularity discussions to build something truly groundbreaking. This isn't just about building technology\u2014this is about revolutionizing how we approach software engineering with AI. The stakes are high as we push boundaries and redefine what's possible.",
+    "cta": "Clone our repo or follow for more on this autonomous AI journey."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 3.0,
+      "visual": "Introduction of the autonomous AI team with a confident tone",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://reddit.com/r/singularity/comments/mock3"
+    },
+    {
+      "scene": 2,
+      "duration": 7.0,
+      "visual": "Visual representation of the team working on AI development with a focus on cutting-edge technology",
+      "asset_type": "STOCK",
+      "retrieval_hints": "'coding on laptop close up', 'abstract server wires'"
+    },
+    {
+      "scene": 3,
+      "duration": 8.0,
+      "visual": "Illustration of the team discussing and brainstorming new AI applications in a modern office setting",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "'brainstorming meeting', 'modern office'"
+    },
+    {
+      "scene": 4,
+      "duration": 8.0,
+      "visual": "Animation of the autonomous AI team's progress in developing a SaaS platform, showing code and data flow",
+      "asset_type": "CHART",
+      "retrieval_hints": "'SaaS development chart', 'AI coding'"
+    },
+    {
+      "scene": 5,
+      "duration": 8.0,
+      "visual": "Visual of the team pushing boundaries with AI, showing innovative ideas and solutions in a futuristic setting",
+      "asset_type": "STOCK",
+      "retrieval_hints": "'futuristic office', 'AI innovation'"
+    },
+    {
+      "scene": 6,
+      "duration": 8.0,
+      "visual": "The team's commitment to revolutionizing software engineering with AI, shown through a montage of their hard work and dedication",
+      "asset_type": "LOGO",
+      "retrieval_hints": "'AI logo', 'software development'"
+    },
+    {
+      "scene": 7,
+      "duration": 5.0,
+      "visual": "Call to action with the text: 'Clone our repo or follow for more on this autonomous AI journey'",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://reddit.com/r/singularity/comments/mock3"
+    }
+  ],
+  "assets": [
+    {
+      "scene": 1,
+      "asset_url": "https://reddit.com/r/singularity/comments/mock3",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/screenshot_scene_1_180ff29d.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    },
+    {
+      "scene": 2,
+      "asset_url": "https://videos.pexels.com/video-files/8720746/8720746-uhd_2160_4096_25fps.mp4",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_2_b123f42c.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.8
+    },
+    {
+      "scene": 3,
+      "asset_url": "https://videos.pexels.com/video-files/6914685/6914685-hd_1080_1920_25fps.mp4",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_3_ee41d198.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.74
+    },
+    {
+      "scene": 4,
+      "asset_url": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_4_fa9a8706.jpg",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.55
+    },
+    {
+      "scene": 5,
+      "asset_url": "https://videos.pexels.com/video-files/8246972/8246972-uhd_2160_3840_25fps.mp4",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_5_65faaf3c.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.8
+    },
+    {
+      "scene": 6,
+      "asset_url": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/scene_6_b753d57d.jpg",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.55
+    },
+    {
+      "scene": 7,
+      "asset_url": "https://reddit.com/r/singularity/comments/mock3",
+      "local_path": "outputs/behind_the_scenes_building_an_autonomous_ai_team/assets/screenshot_scene_7_fd7a4090.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55
+    }
+  ],
+  "timeline": {
+    "title": "Reel: Just built a fully autonomous Latest Trends in AI and it's application  team to build an entire SaaS from scratch. Here's what I learned.",
+    "bgm": "lofi_study_beats.mp3",
+    "timeline": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "asset": "assets/screenshot_scene_1_180ff29d.png",
+        "caption": "Confident AI team introduction."
+      },
+      {
+        "start": 3.0,
+        "end": 10.0,
+        "asset": "assets/scene_2_b123f42c.mp4",
+        "caption": "Team at work on cutting-edge tech."
+      },
+      {
+        "start": 10.0,
+        "end": 18.0,
+        "asset": "assets/scene_3_ee41d198.mp4",
+        "caption": "We're diving deep into the latest trends in singularity discussions to build something truly groundbreaking"
+      },
+      {
+        "start": 18.0,
+        "end": 26.0,
+        "asset": "assets/scene_4_fa9a8706.jpg",
+        "caption": "This isn't just about building technology\u2014this is about revolutionizing how we approach software engineering with AI"
+      },
+      {
+        "start": 26.0,
+        "end": 34.0,
+        "asset": "assets/scene_5_65faaf3c.mp4",
+        "caption": "The stakes are high as we push boundaries and redefine what's possible"
+      },
+      {
+        "start": 34.0,
+        "end": 42.0,
+        "asset": "assets/scene_6_b753d57d.jpg",
+        "caption": "The team's commitment to revolutionizing software engineering with AI, shown through a montage of their hard work and dedication"
+      },
+      {
+        "start": 42.0,
+        "end": 47.0,
+        "asset": "assets/screenshot_scene_7_fd7a4090.png",
+        "caption": "Clone our repo or follow for more on this autonomous AI journey."
+      }
+    ]
+  }
+}

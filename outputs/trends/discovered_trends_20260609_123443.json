@@ -1,0 +1,240 @@
+[
+  {
+    "trend_id": "github_openclaw_openclaw",
+    "source": "github",
+    "title": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
+    "url": "https://github.com/openclaw/openclaw",
+    "metrics": {
+      "stars": 377717,
+      "forks": 78980,
+      "readme_summary": "# \ud83e\udd9e OpenClaw \u2014 Personal AI Assistant\n\n<p align=\"center\">\n    <picture>\n        <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\">\n        <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\">\n    </picture>\n</p>\n\n<p align=\"center\">\n  <strong>EXFOLIATE! EXFOLIATE!</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://gith..."
+    }
+  },
+  {
+    "trend_id": "github_n8n-io_n8n",
+    "source": "github",
+    "title": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "url": "https://github.com/n8n-io/n8n",
+    "metrics": {
+      "stars": 191681,
+      "forks": 58401,
+      "readme_summary": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)\n\n# n8n - Secure Workflow Automation for Technical Teams\n\nn8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments.\n\n![n8n.io - Screenshot](https://..."
+    }
+  },
+  {
+    "trend_id": "github_NousResearch_hermes-agent",
+    "source": "github",
+    "title": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "metrics": {
+      "stars": 187847,
+      "forks": 32360,
+      "readme_summary": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\">\n</p>\n\n# Hermes Agent \u2624\n\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n  <a href=\"https://gith..."
+    }
+  },
+  {
+    "trend_id": "github_Significant-Gravitas_AutoGPT",
+    "source": "github",
+    "title": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "metrics": {
+      "stars": 184852,
+      "forks": 46168,
+      "readme_summary": "# AutoGPT: Build, Deploy, and Run AI Agents\n\n[![Discord Follow](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fautogpt%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=total%20members&logo=discord&logoColor=white&color=7289da)](https://discord.gg/autogpt) &ensp;\n[![Twitter Follow](https://img.shields.io/twitter/follow/Auto_GPT?style=social)](https://twitter.com/Auto_GPT) &ensp;\n\n<!-- Keep these links. Translations will automatically update ..."
+    }
+  },
+  {
+    "trend_id": "github_AUTOMATIC1111_stable-diffusion-webui",
+    "source": "github",
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "metrics": {
+      "stars": 163561,
+      "forks": 30367,
+      "readme_summary": "# Stable Diffusion web UI\r\nA web interface for Stable Diffusion, implemented using Gradio library.\r\n\r\n![](screenshot.png)\r\n\r\n## Features\r\n[Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):\r\n- Original txt2img and img2img modes\r\n- One click install and run script (but you still must install python and git)\r\n- Outpainting\r\n- Inpainting\r\n- Color Sketch\r\n- Prompt Matrix\r\n- Stable Diffusion Upscale\r\n- Attention, specify parts of text that t..."
+    }
+  },
+  {
+    "trend_id": "github_f_prompts.chat",
+    "source": "github",
+    "title": "f/prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+    "url": "https://github.com/f/prompts.chat",
+    "metrics": {
+      "stars": 163450,
+      "forks": 21216,
+      "readme_summary": "<h1 align=\"center\">\n  <a href=\"https://prompts.chat\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\">\n      <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\">\n    </picture>\n    <br>\n    prompts.chat\n  </a>\n</h1>\n\n<p align=\"center\">\n  <strong>The world's largest open-source prompt library for AI</strong><br>\n  <sub>Works w..."
+    }
+  },
+  {
+    "trend_id": "github_Snailclimb_JavaGuide",
+    "source": "github",
+    "title": "Snailclimb/JavaGuide",
+    "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "metrics": {
+      "stars": 156234,
+      "forks": 46134,
+      "readme_summary": "- \u63a8\u8350\u5728\u7ebf\u9605\u8bfb\uff08\u4f53\u9a8c\u66f4\u597d\uff0c\u901f\u5ea6\u66f4\u5feb\uff09\uff1a[javaguide.cn](https://javaguide.cn/)\n- \u9762\u8bd5\u7a81\u51fb\u7248\u672c\uff08\u53ea\u4fdd\u7559\u91cd\u70b9\uff0c\u9644\u5e26\u7cbe\u7f8e PDF \u4e0b\u8f7d\uff09\uff1a[interview.javaguide.cn](https://interview.javaguide.cn/)\n\n<div align=\"center\">\n\n[![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)\n\n[GitHub](https://github.com/Snailclimb/JavaGuide) | [Gitee](https://gitee.com/SnailClimb/JavaGuide)\n\n<a href=\"https://trendshift.io/repositories/1319\" target=\"_blank\"><img src=\"https://trendshift...."
+    }
+  },
+  {
+    "trend_id": "github_langflow-ai_langflow",
+    "source": "github",
+    "title": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "url": "https://github.com/langflow-ai/langflow",
+    "metrics": {
+      "stars": 149433,
+      "forks": 9218,
+      "readme_summary": "<!-- markdownlint-disable MD030 -->\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/langflow-logo-color-blue-bg.svg\">\n  <img src=\"./docs/static/img/langflow-logo-color-black-solid.svg\" alt=\"Langflow logo\">\n</picture>\n\n[![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases)\n[![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/license..."
+    }
+  },
+  {
+    "trend_id": "github_langgenius_dify",
+    "source": "github",
+    "title": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "url": "https://github.com/langgenius/dify",
+    "metrics": {
+      "stars": 144495,
+      "forks": 22740,
+      "readme_summary": "![cover-v5-optimized](./images/GitHub_README_if.png)\n\n<p align=\"center\">\n  <a href=\"https://cloud.dify.ai\">Dify Cloud</a> \u00b7\n  <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> \u00b7\n  <a href=\"https://docs.dify.ai\">Documentation</a> \u00b7\n  <a href=\"https://dify.ai/pricing\">Dify edition overview</a>\n</p>\n\n<p align=\"center\">\n    <a href=\"https://dify.ai\" target=\"_blank\">\n        <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/Product-F04438\"></a>\n    <a href=\"h..."
+    }
+  },
+  {
+    "trend_id": "github_open-webui_open-webui",
+    "source": "github",
+    "title": "open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "url": "https://github.com/open-webui/open-webui",
+    "metrics": {
+      "stars": 140731,
+      "forks": 20194,
+      "readme_summary": "# Open WebUI \ud83d\udc4b\n\n![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)\n![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)\n![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social)\n![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui)\n![GitHub language count](https://img.shields.io/github/languages/count/open-webui/open-webui)\n![GitHub top language](https://img.sh..."
+    }
+  },
+  {
+    "trend_id": "reddit_AI_Agents_ceb2d36b",
+    "source": "reddit",
+    "title": "What\u2019s the coolest thing you\u2019ve automated with AI Agents so far in 2026?",
+    "description": "Trending discussion in r/AI_Agents.",
+    "url": "https://reddit.com/r/AI_Agents/comments/1tugo0h/whats_the_coolest_thing_youve_automated_with_ai/",
+    "metrics": {
+      "upvotes": 507,
+      "comments": 177,
+      "post_age_hours": 36.8
+    }
+  },
+  {
+    "trend_id": "reddit_AI_Agents_f77f8cc4",
+    "source": "reddit",
+    "title": "What are the best resources to learn AI Agents in 2026?",
+    "description": "Trending discussion in r/AI_Agents.",
+    "url": "https://reddit.com/r/AI_Agents/comments/1tye5lt/what_are_the_best_resources_to_learn_ai_agents_in/",
+    "metrics": {
+      "upvotes": 533,
+      "comments": 235,
+      "post_age_hours": 14.0
+    }
+  },
+  {
+    "trend_id": "reddit_GithubCopilot_cb1d9622",
+    "source": "reddit",
+    "title": "I guess AI era is over. Agents are now more expensive than developers.",
+    "description": "Trending discussion in r/GithubCopilot.",
+    "url": "https://reddit.com/r/GithubCopilot/comments/1tv4tv7/i_guess_ai_era_is_over_agents_are_now_more/",
+    "metrics": {
+      "upvotes": 1017,
+      "comments": 230,
+      "post_age_hours": 41.4
+    }
+  },
+  {
+    "trend_id": "reddit_AIforOPS_818668c3",
+    "source": "reddit",
+    "title": "Stop building AI agents",
+    "description": "Trending discussion in r/AIforOPS.",
+    "url": "https://reddit.com/r/AIforOPS/comments/1tvi9uq/stop_building_ai_agents/",
+    "metrics": {
+      "upvotes": 966,
+      "comments": 88,
+      "post_age_hours": 9.8
+    }
+  },
+  {
+    "trend_id": "reddit_AIAgentsInAction_d095a854",
+    "source": "reddit",
+    "title": "What are the 3 AI agents you couldn't work without today?",
+    "description": "Trending discussion in r/AIAgentsInAction.",
+    "url": "https://reddit.com/r/AIAgentsInAction/comments/1u0kmus/what_are_the_3_ai_agents_you_couldnt_work_without/",
+    "metrics": {
+      "upvotes": 929,
+      "comments": 187,
+      "post_age_hours": 60.1
+    }
+  },
+  {
+    "trend_id": "reddit_artificial_2142c6a8",
+    "source": "reddit",
+    "title": "I think we're about 12 months away from the first major AI agent disaster",
+    "description": "Trending discussion in r/artificial.",
+    "url": "https://reddit.com/r/artificial/comments/1tzy180/i_think_were_about_12_months_away_from_the_first/",
+    "metrics": {
+      "upvotes": 1347,
+      "comments": 56,
+      "post_age_hours": 11.7
+    }
+  },
+  {
+    "trend_id": "reddit_AiAutomations_f0f165c4",
+    "source": "reddit",
+    "title": "Replaced n8n & Make with my own AI agents. Anyone else going this route?",
+    "description": "Trending discussion in r/AiAutomations.",
+    "url": "https://reddit.com/r/AiAutomations/comments/1tz3siu/replaced_n8n_make_with_my_own_ai_agents_anyone/",
+    "metrics": {
+      "upvotes": 934,
+      "comments": 231,
+      "post_age_hours": 33.6
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_33562d6f",
+    "source": "youtube",
+    "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
+    "metrics": {
+      "views": 112900,
+      "age_hours": 24.3,
+      "velocity": 4648.7
+    }
+  },
+  {
+    "trend_id": "youtube_Fireship_85df6794",
+    "source": "youtube",
+    "title": "Learn Docker \u2013 Full DevOps Course for Deploying Containerized Apps",
+    "description": "Video by Fireship.",
+    "url": "https://www.youtube.com/watch?v=rjjES5IsPdg",
+    "metrics": {
+      "views": 30752,
+      "age_hours": 142.6,
+      "velocity": 215.7
+    }
+  },
+  {
+    "trend_id": "newsletter_latent_space_58cd97d4",
+    "source": "newsletter",
+    "title": "Recent features of AI Agents on Latent Space",
+    "description": "Latent Space featured articles discussing the latest developments and startups in AI Agents.",
+    "url": "https://www.latent.space/",
+    "metrics": {
+      "newsletter_source": "Latent Space"
+    }
+  }
+]

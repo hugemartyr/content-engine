@@ -1,0 +1,49 @@
+{
+  "trend": {
+    "trend_id": "newsletter_latent_space_1d4a3486",
+    "source": "newsletter",
+    "title": "\ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI",
+    "description": "Recent article from Latent Space newsletter focusing on \ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI.",
+    "url": "https://www.latent.space/p/lupsasca",
+    "metrics": {
+      "newsletter_source": "Latent Space"
+    }
+  },
+  "idea": "Alex Lupsasca's AI hack that's redefining tech networks",
+  "script": {
+    "hook": "Alex Lupsasca's AI hack is making waves in tech networks.",
+    "body": "In a recent article from Latent Space, Alex Lupsasca\u2019s work on 'Doing Vibe Physics' at OpenAI is highlighted. This AI innovation is redefining how we think about and interact with technology. By leveraging advanced algorithms, Lupsasca has created a system that enhances network efficiency and security. This isn't just a tech tweak; it's a major leap forward in the field.",
+    "cta": "Clone this game-changing repo or follow Alex on Instagram to stay ahead of the curve."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 3.0,
+      "visual": "Alex Lupsasca's AI hack making waves in tech networks",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "https://www.latent.space/p/lupsasca"
+    }
+  ],
+  "assets": [
+    {
+      "scene": 1,
+      "asset_url": "https://www.latent.space/p/lupsasca",
+      "local_path": "outputs/alex_lupsascas_ai_hack_thats_redefining_tech_networks/assets/screenshot_scene_1_3847d4c3.png",
+      "license": "local_generated",
+      "source": "screenshot_fallback",
+      "score": 0.55
+    }
+  ],
+  "timeline": {
+    "title": "Reel: \ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI",
+    "bgm": "ambient_tech_mellow.mp3",
+    "timeline": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "asset": "assets/screenshot_scene_1_3847d4c3.png",
+        "caption": "AI hack making waves in tech networks"
+      }
+    ]
+  }
+}

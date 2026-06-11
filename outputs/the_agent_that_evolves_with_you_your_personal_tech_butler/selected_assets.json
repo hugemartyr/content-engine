@@ -1,0 +1,10 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "local_fallback",
+    "local_path": "outputs/the_agent_that_evolves_with_you_your_personal_tech_butler/assets/scene_1_critical_fallback.jpg",
+    "license": "fallback",
+    "source": "local_mock",
+    "score": 0.74
+  }
+]

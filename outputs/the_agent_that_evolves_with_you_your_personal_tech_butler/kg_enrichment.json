@@ -1,0 +1,26 @@
+{
+  "trend_id": "github_NousResearch_hermes-agent",
+  "related_entities": [
+    {
+      "name": "NousResearch",
+      "type": "Company",
+      "description": "A company associated with the Hermes Agent project."
+    },
+    {
+      "name": "Hermes Agent",
+      "type": "Product",
+      "description": "An agent that grows with you, developed by NousResearch."
+    }
+  ],
+  "relations": [
+    {
+      "source": "NousResearch",
+      "target": "Hermes Agent",
+      "type": "created_by"
+    }
+  ],
+  "related_topics": [
+    "Technology Networks",
+    "Software Development"
+  ]
+}

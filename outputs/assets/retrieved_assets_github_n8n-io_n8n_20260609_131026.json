@@ -1,0 +1,90 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+    "local_path": "outputs/assets/scene_1_56fe03ba.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 1,
+    "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+    "local_path": "outputs/assets/scene_1_46643107.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://github.com/n8n-io/n8n",
+    "local_path": "outputs/assets/screenshot_scene_2_e0ed7eef.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": null
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+    "local_path": "outputs/assets/scene_3_cf6e8549.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://videos.pexels.com/video-files/12893579/12893579-hd_720_1280_24fps.mp4",
+    "local_path": "outputs/assets/scene_3_344448ee.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://github.com/n8n-io/n8n",
+    "local_path": "outputs/assets/screenshot_scene_4_3fac055b.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": null
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://github.com/n8n-io/n8n",
+    "local_path": "outputs/assets/screenshot_scene_5_8b3c31db.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": null
+  },
+  {
+    "scene": 6,
+    "asset_url": "https://github.com/n8n-io/n8n",
+    "local_path": "outputs/assets/screenshot_scene_6_609b3677.png",
+    "license": "local_generated",
+    "source": "screenshot_fallback",
+    "score": null
+  },
+  {
+    "scene": 7,
+    "asset_url": "https://videos.pexels.com/video-files/7581329/7581329-hd_1080_1920_30fps.mp4",
+    "local_path": "outputs/assets/scene_7_3c374aa6.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 7,
+    "asset_url": "https://videos.pexels.com/video-files/7196428/7196428-hd_1080_1920_25fps.mp4",
+    "local_path": "outputs/assets/scene_7_3d86eb3e.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null
+  },
+  {
+    "scene": 8,
+    "asset_url": "https://github.com/search?q=",
+    "local_path": "outputs/assets/screenshot_scene_8_0d9a5086.png",
+    "license": "proprietary",
+    "source": "screenshot",
+    "score": null
+  }
+]

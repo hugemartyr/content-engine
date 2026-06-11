@@ -1,0 +1,26 @@
+{
+  "trend_id": "reddit_singularity_9a1ff3c3",
+  "related_entities": [
+    {
+      "name": "Just built a fully autonomous team to build an entire SaaS from scratch.",
+      "type": "Company",
+      "description": "A company that has recently established an autonomous team for building a new software as a service (SaaS) platform."
+    },
+    {
+      "name": "AI and its application",
+      "type": "Framework",
+      "description": "The field of artificial intelligence and its practical applications in various industries."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Just built a fully autonomous team to build an entire SaaS from scratch.",
+      "target": "AI and its application",
+      "type": "integrates_with"
+    }
+  ],
+  "related_topics": [
+    "Artificial Intelligence",
+    "Software as a Service"
+  ]
+}

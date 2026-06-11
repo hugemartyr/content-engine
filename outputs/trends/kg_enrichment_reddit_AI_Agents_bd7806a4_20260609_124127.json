@@ -1,0 +1,31 @@
+{
+  "trend_id": "reddit_AI_Agents_bd7806a4",
+  "related_entities": [
+    {
+      "name": "Agentic AI",
+      "type": "Framework",
+      "description": "A framework for developing artificial intelligence systems that exhibit agency"
+    },
+    {
+      "name": "r/AI_Agents",
+      "type": "Product",
+      "description": "A subreddit dedicated to discussions about agent-based AI"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Agentic AI",
+      "target": "r/AI_Agents",
+      "type": "integrates_with"
+    },
+    {
+      "source": "r/AI_Agents",
+      "target": "Agentic AI",
+      "type": "competes_with"
+    }
+  ],
+  "related_topics": [
+    "AI",
+    "Agent-Based Systems"
+  ]
+}

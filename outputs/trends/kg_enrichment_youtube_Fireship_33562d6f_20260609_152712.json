@@ -1,0 +1,31 @@
+{
+  "trend_id": "youtube_Fireship_33562d6f",
+  "related_entities": [
+    {
+      "name": "Google",
+      "type": "Company",
+      "description": "A technology company"
+    },
+    {
+      "name": "email",
+      "type": "Product",
+      "description": "An application for sending and receiving electronic messages"
+    }
+  ],
+  "relations": [
+    {
+      "source": "engineer at Google",
+      "target": "Google",
+      "type": "created_by"
+    },
+    {
+      "source": "Back in 2004, email seemed like a solved problem.",
+      "target": "email",
+      "type": "integrates_with"
+    }
+  ],
+  "related_topics": [
+    "Technology Networks",
+    "Email"
+  ]
+}
