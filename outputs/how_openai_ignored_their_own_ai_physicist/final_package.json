@@ -1,0 +1,185 @@
+{
+  "trend": {
+    "trend_id": "newsletter_latent_space_1d4a3486",
+    "source": "newsletter",
+    "title": "\ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI",
+    "description": "Recent article from Latent Space newsletter focusing on \ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI.",
+    "url": "https://www.latent.space/p/lupsasca",
+    "metrics": {
+      "newsletter_source": "Latent Space"
+    }
+  },
+  "idea": "How OpenAI Ignored Their Own AI Physicist",
+  "script": {
+    "hook": "Alex Lupsasca's physics research at OpenAI is causing a stir in AI circles.",
+    "body": "Recent articles highlight how Alex Lupsasca, an AI physicist at OpenAI, is challenging the company\u2019s traditional approach to machine learning with his novel methods. His work on 'Doing Vibe Physics' suggests that AI might benefit from incorporating principles more akin to quantum mechanics and entanglement. This could revolutionize how we understand AI's behavior and potentially lead to more efficient and effective models. The implications are profound, pushing the boundaries of what AI can achieve.",
+    "cta": "Clone this repository or follow Alex Lupsasca for updates on his groundbreaking research."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 3.0,
+      "visual": "Alex Lupsasca in a lab setting, discussing his research with colleagues.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "alex lupsasca openai physics research"
+    },
+    {
+      "scene": 2,
+      "duration": 8.0,
+      "visual": "Visual explanation of quantum mechanics principles and entanglement using animated particles.",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "quantum mechanics, entanglement"
+    },
+    {
+      "scene": 3,
+      "duration": 7.0,
+      "visual": "Screenshots of OpenAI's research papers and articles highlighting Lupsasca's work.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "openai physics research, lupsasca"
+    },
+    {
+      "scene": 4,
+      "duration": 8.0,
+      "visual": "Illustration of AI models with quantum-inspired elements, showing potential improvements.",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "ai quantum mechanics"
+    },
+    {
+      "scene": 5,
+      "duration": 7.0,
+      "visual": "Alex Lupsasca presenting his research at a conference with a large audience.",
+      "asset_type": "SCREENSHOT",
+      "retrieval_hints": "lupsasca openai presentation"
+    },
+    {
+      "scene": 6,
+      "duration": 7.0,
+      "visual": "Visual representation of the potential impact on AI development, with a futuristic cityscape.",
+      "asset_type": "AI_BROLL",
+      "retrieval_hints": "ai future technology"
+    }
+  ],
+  "assets": [
+    {
+      "scene": 1,
+      "asset_url": "https://github.com/search?q=alex lupsasca openai physics research",
+      "local_path": "outputs/how_openai_ignored_their_own_ai_physicist/assets/screenshot_scene_1_e764e217.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55,
+      "tags": [
+        "screenshot",
+        "web",
+        "github.com"
+      ]
+    },
+    {
+      "scene": 2,
+      "asset_url": "https://videos.pexels.com/video-files/5846713/5846713-hd_1080_1920_25fps.mp4",
+      "local_path": "outputs/how_openai_ignored_their_own_ai_physicist/assets/scene_2_bd58d560.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.55,
+      "tags": [
+        "close",
+        "video",
+        "machine"
+      ]
+    },
+    {
+      "scene": 3,
+      "asset_url": "https://github.com/search?q=openai physics research, lupsasca",
+      "local_path": "outputs/how_openai_ignored_their_own_ai_physicist/assets/screenshot_scene_3_48006c07.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.7,
+      "tags": [
+        "screenshot",
+        "web",
+        "github.com"
+      ]
+    },
+    {
+      "scene": 4,
+      "asset_url": "https://videos.pexels.com/video-files/6153727/6153727-sd_506_960_25fps.mp4",
+      "local_path": "outputs/how_openai_ignored_their_own_ai_physicist/assets/scene_4_0c164e6d.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.57,
+      "tags": [
+        "close",
+        "look",
+        "cyborg",
+        "hand"
+      ]
+    },
+    {
+      "scene": 5,
+      "asset_url": "https://github.com/search?q=lupsasca openai presentation",
+      "local_path": "outputs/how_openai_ignored_their_own_ai_physicist/assets/screenshot_scene_5_935469d8.png",
+      "license": "proprietary",
+      "source": "screenshot",
+      "score": 0.55,
+      "tags": [
+        "screenshot",
+        "web",
+        "github.com"
+      ]
+    },
+    {
+      "scene": 6,
+      "asset_url": "https://videos.pexels.com/video-files/8087308/8087308-sd_540_960_25fps.mp4",
+      "local_path": "outputs/how_openai_ignored_their_own_ai_physicist/assets/scene_6_c7b26c4e.mp4",
+      "license": "pexels",
+      "source": "pexels",
+      "score": 0.57,
+      "tags": [
+        "man",
+        "holding",
+        "robot"
+      ]
+    }
+  ],
+  "timeline": {
+    "title": "Reel: \ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI",
+    "bgm": "ambient_tech_mellow.mp3",
+    "timeline": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "asset": "assets/screenshot_scene_1_e764e217.png",
+        "caption": "Alex Lupsasca discusses 'Doing Vibe Physics'"
+      },
+      {
+        "start": 3.0,
+        "end": 11.0,
+        "asset": "assets/scene_2_bd58d560.mp4",
+        "caption": "Quantum particles explain entanglement"
+      },
+      {
+        "start": 11.0,
+        "end": 18.0,
+        "asset": "assets/screenshot_scene_3_48006c07.png",
+        "caption": "His work on 'Doing Vibe Physics' suggests that AI might benefit from incorporating principles more akin to quantum mechanics and entanglement"
+      },
+      {
+        "start": 18.0,
+        "end": 26.0,
+        "asset": "assets/scene_4_0c164e6d.mp4",
+        "caption": "This could revolutionize how we understand AI's behavior and potentially lead to more efficient and effective models"
+      },
+      {
+        "start": 26.0,
+        "end": 33.0,
+        "asset": "assets/screenshot_scene_5_935469d8.png",
+        "caption": "The implications are profound, pushing the boundaries of what AI can achieve"
+      },
+      {
+        "start": 33.0,
+        "end": 40.0,
+        "asset": "assets/scene_6_c7b26c4e.mp4",
+        "caption": "Clone this repository or follow Alex Lupsasca for updates on his groundbreaking research."
+      }
+    ]
+  }
+}

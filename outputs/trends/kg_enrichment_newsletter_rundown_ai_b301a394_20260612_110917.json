@@ -1,0 +1,41 @@
+{
+  "trend_id": "newsletter_rundown_ai_b301a394",
+  "related_entities": [
+    {
+      "name": "Meta",
+      "type": "Company",
+      "description": "Technology company behind the AI glasses master plan"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "type": "Founder",
+      "description": "Co-founder and CEO of Meta"
+    },
+    {
+      "name": "AI glasses",
+      "type": "Product",
+      "description": "Wearable technology developed by Meta"
+    },
+    {
+      "name": "neural control",
+      "type": "Framework",
+      "description": "Technology related to controlling devices using brain signals"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Meta",
+      "target": "AI glasses",
+      "type": "created_by"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Meta",
+      "type": "inspired_by"
+    }
+  ],
+  "related_topics": [
+    "AI",
+    "Wearable Technology"
+  ]
+}

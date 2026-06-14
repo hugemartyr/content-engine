@@ -15,6 +15,7 @@ class Settings(BaseSettings):
     # API Keys
     GEMINI_API_KEY: Optional[str] = None
     OPENAI_API_KEY: Optional[str] = None
+    OPENROUTER_API_KEY: Optional[str] = None
     ANTHROPIC_API_KEY: Optional[str] = None
 
     # External APIs

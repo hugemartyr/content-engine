@@ -1,0 +1,301 @@
+{
+  "scenes": {
+    "1": [
+      {
+        "sub_segment_id": 1,
+        "duration": 1.5,
+        "text": "DIVE INTO META'S",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 1.5,
+        "text": "AI GLASSES STRATEGY",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "2": [
+      {
+        "sub_segment_id": 1,
+        "duration": 2.0,
+        "text": "ZUCKERBERG REVEALS REVOLUTIONARY",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 2.0,
+        "text": "PLAN",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 2.0,
+        "text": "",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "3": [
+      {
+        "sub_segment_id": 1,
+        "duration": 2.0,
+        "text": "THIS IS THE",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 2.0,
+        "text": "LATEST EDITION OF",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 2.0,
+        "text": "THE RUNDOWN AI",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 4,
+        "duration": 2.0,
+        "text": "EXPLORING THE FUTURE",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "4": [
+      {
+        "sub_segment_id": 1,
+        "duration": 2.0,
+        "text": "IMAGINE A WORLD",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 2.0,
+        "text": "WHERE YOUR GLASSES",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 2.0,
+        "text": "CAN ENHANCE YOUR",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 4,
+        "duration": 2.0,
+        "text": "BRAINPOWER AND PROVIDE",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "5": [
+      {
+        "sub_segment_id": 1,
+        "duration": 2.0,
+        "text": "STAY AHEAD OF",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 2.0,
+        "text": "THE CURVE WITH",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 2.0,
+        "text": "THIS INSIDE SCOOP",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 4,
+        "duration": 2.0,
+        "text": "ON THE NEXT",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "6": [
+      {
+        "sub_segment_id": 1,
+        "duration": 1.75,
+        "text": "IMAGINE A WORLD",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 1.75,
+        "text": "WHERE GLASSES ENHANCE",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 1.75,
+        "text": "BRAINPOWER",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 4,
+        "duration": 1.75,
+        "text": "",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "7": [
+      {
+        "sub_segment_id": 1,
+        "duration": 2.0,
+        "text": "META'S VISION COMING",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 2.0,
+        "text": "TO LIFE",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 2.0,
+        "text": "",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "8": [
+      {
+        "sub_segment_id": 1,
+        "duration": 1.75,
+        "text": "STAY AHEAD OF",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 1.75,
+        "text": "THE CURVE WITH",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 1.75,
+        "text": "INSIDE SCOOP ON",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 4,
+        "duration": 1.75,
+        "text": "TECH",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ],
+    "9": [
+      {
+        "sub_segment_id": 1,
+        "duration": 2.0,
+        "text": "READY TO EXPERIENCE",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 2,
+        "duration": 2.0,
+        "text": "THE FUTURE? FOLLOW",
+        "highlight_words": [],
+        "zoom": 1.1,
+        "pan": "center",
+        "sfx": "none"
+      },
+      {
+        "sub_segment_id": 3,
+        "duration": 2.0,
+        "text": "FOR MORE UPDATES",
+        "highlight_words": [],
+        "zoom": 1.0,
+        "pan": "center",
+        "sfx": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "scene": 1,
+    "duration": 3.0,
+    "visual": "Alex Lupsasca in a lab setting, discussing his research with colleagues.",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "alex lupsasca openai physics research"
+  },
+  {
+    "scene": 2,
+    "duration": 8.0,
+    "visual": "Visual explanation of quantum mechanics principles and entanglement using animated particles.",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "quantum mechanics, entanglement"
+  },
+  {
+    "scene": 3,
+    "duration": 7.0,
+    "visual": "Screenshots of OpenAI's research papers and articles highlighting Lupsasca's work.",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "openai physics research, lupsasca"
+  },
+  {
+    "scene": 4,
+    "duration": 8.0,
+    "visual": "Illustration of AI models with quantum-inspired elements, showing potential improvements.",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "ai quantum mechanics"
+  },
+  {
+    "scene": 5,
+    "duration": 7.0,
+    "visual": "Alex Lupsasca presenting his research at a conference with a large audience.",
+    "asset_type": "SCREENSHOT",
+    "retrieval_hints": "lupsasca openai presentation"
+  },
+  {
+    "scene": 6,
+    "duration": 7.0,
+    "visual": "Visual representation of the potential impact on AI development, with a futuristic cityscape.",
+    "asset_type": "AI_BROLL",
+    "retrieval_hints": "ai future technology"
+  }
+]

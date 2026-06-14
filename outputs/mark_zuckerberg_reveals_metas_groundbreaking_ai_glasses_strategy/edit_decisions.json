@@ -1,0 +1,299 @@
+{
+  "scene_1": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_1_9f5387f5.jpg",
+      "duration": 1.5,
+      "overlay_text": "DIVE INTO META'S",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_1_9f5387f5.jpg",
+      "duration": 1.5,
+      "overlay_text": "AI GLASSES STRATEGY",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_2": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_2_4385682b.mp4",
+      "duration": 2.0,
+      "overlay_text": "ZUCKERBERG REVEALS REVOLUTIONARY",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_2_4385682b.mp4",
+      "duration": 2.0,
+      "overlay_text": "PLAN",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_2_4385682b.mp4",
+      "duration": 2.0,
+      "overlay_text": "",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_3": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_3_7ed19ef1.mp4",
+      "duration": 2.0,
+      "overlay_text": "THIS IS THE",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_3_7ed19ef1.mp4",
+      "duration": 2.0,
+      "overlay_text": "LATEST EDITION OF",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_3_7ed19ef1.mp4",
+      "duration": 2.0,
+      "overlay_text": "THE RUNDOWN AI",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "scene_3_7ed19ef1.mp4",
+      "duration": 2.0,
+      "overlay_text": "EXPLORING THE FUTURE",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_4": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_4_1c7c83ea.mp4",
+      "duration": 2.0,
+      "overlay_text": "IMAGINE A WORLD",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_4_1c7c83ea.mp4",
+      "duration": 2.0,
+      "overlay_text": "WHERE YOUR GLASSES",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_4_1c7c83ea.mp4",
+      "duration": 2.0,
+      "overlay_text": "CAN ENHANCE YOUR",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "scene_4_1c7c83ea.mp4",
+      "duration": 2.0,
+      "overlay_text": "BRAINPOWER AND PROVIDE",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_5": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_5_f08a6b13.mp4",
+      "duration": 2.0,
+      "overlay_text": "STAY AHEAD OF",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_5_f08a6b13.mp4",
+      "duration": 2.0,
+      "overlay_text": "THE CURVE WITH",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_5_f08a6b13.mp4",
+      "duration": 2.0,
+      "overlay_text": "THIS INSIDE SCOOP",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "scene_5_f08a6b13.mp4",
+      "duration": 2.0,
+      "overlay_text": "ON THE NEXT",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_6": [
+    {
+      "sub_segment": 1,
+      "asset_used": "screenshot_scene_6_09a84d53.png",
+      "duration": 1.75,
+      "overlay_text": "IMAGINE A WORLD",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "screenshot_scene_6_09a84d53.png",
+      "duration": 1.75,
+      "overlay_text": "WHERE GLASSES ENHANCE",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "screenshot_scene_6_09a84d53.png",
+      "duration": 1.75,
+      "overlay_text": "BRAINPOWER",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "screenshot_scene_6_09a84d53.png",
+      "duration": 1.75,
+      "overlay_text": "",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_7": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_7_1339d647.mp4",
+      "duration": 2.0,
+      "overlay_text": "META'S VISION COMING",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_7_1339d647.mp4",
+      "duration": 2.0,
+      "overlay_text": "TO LIFE",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_7_1339d647.mp4",
+      "duration": 2.0,
+      "overlay_text": "",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_8": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_8_4d186326.jpg",
+      "duration": 1.75,
+      "overlay_text": "STAY AHEAD OF",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_8_4d186326.jpg",
+      "duration": 1.75,
+      "overlay_text": "THE CURVE WITH",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_8_4d186326.jpg",
+      "duration": 1.75,
+      "overlay_text": "INSIDE SCOOP ON",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 4,
+      "asset_used": "scene_8_4d186326.jpg",
+      "duration": 1.75,
+      "overlay_text": "TECH",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ],
+  "scene_9": [
+    {
+      "sub_segment": 1,
+      "asset_used": "scene_9_0a9685a8.jpg",
+      "duration": 2.0,
+      "overlay_text": "READY TO EXPERIENCE",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "push"
+    },
+    {
+      "sub_segment": 2,
+      "asset_used": "scene_9_0a9685a8.jpg",
+      "duration": 2.0,
+      "overlay_text": "THE FUTURE? FOLLOW",
+      "animation": "zoom_1.1_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    },
+    {
+      "sub_segment": 3,
+      "asset_used": "scene_9_0a9685a8.jpg",
+      "duration": 2.0,
+      "overlay_text": "FOR MORE UPDATES",
+      "animation": "zoom_1.0_center",
+      "sfx_triggered": "none",
+      "transition": "whip_pan"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+[
+  {
+    "scene": 1,
+    "asset_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=720&h=1280&q=80",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_1_36d7392b.jpg",
+    "license": "unsplash_free",
+    "source": "unsplash",
+    "score": null,
+    "tags": [
+      "fallback",
+      "unsplash",
+      "technology"
+    ]
+  },
+  {
+    "scene": 1,
+    "asset_url": "https://images.pexels.com/photos/33386712/pexels-photo-33386712.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_1_9f5387f5.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "vibrant",
+      "abstract",
+      "artwork",
+      "featuring",
+      "bold",
+      "geometric",
+      "shapes",
+      "and",
+      "vivid",
+      "colors",
+      "artistic",
+      "design."
+    ]
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://videos.pexels.com/video-files/35163081/14895114_360_640_30fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_2_4385682b.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "futuristic",
+      "neural",
+      "network",
+      "visualization"
+    ]
+  },
+  {
+    "scene": 2,
+    "asset_url": "https://videos.pexels.com/video-files/35158244/14893810_360_640_30fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_2_b53fb012.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "abstract",
+      "network",
+      "glowing",
+      "purple",
+      "connections"
+    ]
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://videos.pexels.com/video-files/35158244/14893810_360_640_30fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_3_7ed19ef1.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "abstract",
+      "network",
+      "glowing",
+      "purple",
+      "connections"
+    ]
+  },
+  {
+    "scene": 3,
+    "asset_url": "https://videos.pexels.com/video-files/35158244/14893810_360_640_30fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_3_9a1d7ae8.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "abstract",
+      "network",
+      "glowing",
+      "purple",
+      "connections"
+    ]
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://videos.pexels.com/video-files/7687801/7687801-sd_338_640_24fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_4_1c7c83ea.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "man",
+      "looking"
+    ]
+  },
+  {
+    "scene": 4,
+    "asset_url": "https://videos.pexels.com/video-files/7687801/7687801-sd_338_640_24fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_4_c94ea353.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "man",
+      "looking"
+    ]
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://videos.pexels.com/video-files/6153727/6153727-sd_506_960_25fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_5_f08a6b13.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "close",
+      "look",
+      "cyborg",
+      "hand"
+    ]
+  },
+  {
+    "scene": 5,
+    "asset_url": "https://videos.pexels.com/video-files/6153727/6153727-sd_506_960_25fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_5_c18e850c.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "close",
+      "look",
+      "cyborg",
+      "hand"
+    ]
+  },
+  {
+    "scene": 6,
+    "asset_url": "https://therundown.ai/p/inside-metas-ai-glasses-master-plan",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/screenshot_scene_6_09a84d53.png",
+    "license": "local_generated",
+    "source": "screenshot_fallback",
+    "score": null,
+    "tags": [
+      "screenshot",
+      "web",
+      "therundown.ai"
+    ]
+  },
+  {
+    "scene": 7,
+    "asset_url": "https://videos.pexels.com/video-files/7986013/7986013-hd_1080_1920_25fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_7_1339d647.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "woman",
+      "wearing",
+      "virtual",
+      "reality",
+      "headset"
+    ]
+  },
+  {
+    "scene": 7,
+    "asset_url": "https://videos.pexels.com/video-files/7547248/7547248-sd_360_640_25fps.mp4",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_7_efd6c4cf.mp4",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "woman",
+      "using",
+      "virtual",
+      "reality",
+      "headset"
+    ]
+  },
+  {
+    "scene": 8,
+    "asset_url": "https://images.pexels.com/photos/7108078/pexels-photo-7108078.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_8_4d186326.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "laptop",
+      "showing",
+      "stock",
+      "market",
+      "graph",
+      "under",
+      "light",
+      "and",
+      "shadow",
+      "effect",
+      "indoors."
+    ]
+  },
+  {
+    "scene": 8,
+    "asset_url": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_8_fb555b91.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "dynamic",
+      "illustration",
+      "showcasing",
+      "futuristic",
+      "technology",
+      "with",
+      "neon",
+      "details."
+    ]
+  },
+  {
+    "scene": 9,
+    "asset_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=720&h=1280&q=80",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_9_e148d9d8.jpg",
+    "license": "unsplash_free",
+    "source": "unsplash",
+    "score": null,
+    "tags": [
+      "fallback",
+      "unsplash",
+      "technology"
+    ]
+  },
+  {
+    "scene": 9,
+    "asset_url": "https://images.pexels.com/photos/33386712/pexels-photo-33386712.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+    "local_path": "outputs/mark_zuckerberg_reveals_metas_groundbreaking_ai_glasses_strategy/assets/scene_9_0a9685a8.jpg",
+    "license": "pexels",
+    "source": "pexels",
+    "score": null,
+    "tags": [
+      "vibrant",
+      "abstract",
+      "artwork",
+      "featuring",
+      "bold",
+      "geometric",
+      "shapes",
+      "and",
+      "vivid",
+      "colors",
+      "artistic",
+      "design."
+    ]
+  }
+]

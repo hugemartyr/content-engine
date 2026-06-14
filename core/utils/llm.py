@@ -30,6 +30,24 @@ def get_llm(temperature: float = 0.7, json_mode: bool = False):
             **extra_args
         )
 
+    # -- OpenRouter (if configured) --
+    if settings.OPENROUTER_API_KEY:
+        from langchain_openai import ChatOpenAI
+        # OpenRouter API uses the OpenAI compatible endpoint with a custom base URL.
+        # Default model can be set via an environment variable or fallback to a common model.
+        model_name = os.getenv("OPENROUTER_MODEL", "openai/gpt-3.5-turbo")
+        api_url = "https://openrouter.ai/api/v1"
+        extra_args = {}
+        if json_mode:
+            extra_args["response_format"] = {"type": "json_object"}
+        logger.info(f"Initializing OpenRouter LLM: {model_name} at {api_url}")
+        return ChatOpenAI(
+            model=model_name,
+            openai_api_base=api_url,
+            openai_api_key=settings.OPENROUTER_API_KEY,
+            temperature=temperature,
+            **extra_args,
+        )
     # -- Google Gemini (Default) --
     api_key = settings.GEMINI_API_KEY
     if not api_key:
