@@ -1,0 +1,123 @@
+{
+  "prompt_hash": "62eb1c5393673b16f076939fb6b85b522a0179001a9d0d03e3cd143a3236f0e3",
+  "storyboard": {
+    "voiceover_text": "Most people using AI... are making themselves slower. They type a vague prompt. Get a mediocre answer. Edit it for twenty minutes. And call that productivity. Here is the actual problem. ChatGPT, Claude, Gemini — none of them know anything about you. Your job. Your writing style. What you actually need. So every single conversation starts from zero. The people getting real output from AI? They have built what is called a system prompt. A permanent set of instructions the AI reads before you type anything. Your role. Your tone. What to avoid. What format you want answers in. Your writing style. All of it. Written once. I built mine six months ago. I have not edited a single AI output since. Most people never build one. Which means they do the same setup work. Every. Single. Session. That is not AI saving you time. That is AI costing you time. Build the prompt once.",
+    "voice_speed": 1.15,
+    "bgm_query": "lofi focus",
+    "bgm_volume": 0.08,
+    "bgm_beat_switch_time": 25.16,
+    "scenes": [
+      {
+        "id": "1",
+        "type": "hook_black",
+        "text": "Most people using AI are making themselves slower.",
+        "est_duration": 3.38
+      },
+      {
+        "id": "2a",
+        "type": "stock_video",
+        "query": "frustrated person laptop",
+        "fallbacks": ["stressed typing computer", "frustrated typing laptop"],
+        "est_duration": 6.94
+      },
+      {
+        "id": "2b",
+        "type": "stock_video",
+        "query": "keyboard typing close up",
+        "fallbacks": ["frustrated typing laptop close up", "stressed keyboard close up"],
+        "est_duration": 1.85
+      },
+      {
+        "id": "2c",
+        "type": "stock_video",
+        "query": "stressed face computer",
+        "fallbacks": ["stressed man laptop face", "frustrated face screen"],
+        "est_duration": 4.31
+      },
+      {
+        "id": "3a",
+        "type": "stock_video",
+        "query": "phone screen chat app",
+        "fallbacks": ["smartphone screen close up", "phone screen chat"],
+        "est_duration": 3.61
+      },
+      {
+        "id": "3b",
+        "type": "stock_video",
+        "query": "hand scrolling phone",
+        "fallbacks": ["phone screen typing close up", "smartphone screen close up"],
+        "est_duration": 2.68
+      },
+      {
+        "id": "4",
+        "type": "stock_video",
+        "query": "person waiting screen",
+        "fallbacks": ["person waiting laptop", "impatient face screen"],
+        "est_duration": 2.39
+      },
+      {
+        "id": "5a",
+        "type": "split_screen",
+        "left_query": "messy handwritten notes",
+        "left_fallbacks": ["messy desk papers", "handwritten notes"],
+        "right_query": "organized desk documents",
+        "right_fallbacks": ["neat desk documents", "clean document desk"],
+        "est_duration": 6.10
+      },
+      {
+        "id": "5b",
+        "type": "stock_video",
+        "query": "writing code laptop",
+        "fallbacks": ["typing instructions laptop", "coding screen close up"],
+        "est_duration": 6.17
+      },
+      {
+        "id": "5c",
+        "type": "stock_video",
+        "query": "writing on notepad close up",
+        "fallbacks": ["handwriting notebook close up", "writing list notebook"],
+        "est_duration": 2.23
+      },
+      {
+        "id": "5d",
+        "type": "stock_video",
+        "query": "using tablet close up",
+        "fallbacks": ["reviewing document tablet", "looking at graph tablet"],
+        "est_duration": 4.97
+      },
+      {
+        "id": "5e",
+        "type": "stock_video",
+        "query": "pressing enter key",
+        "fallbacks": ["clicking keyboard enter button", "hand pressing enter key"],
+        "est_duration": 3.61
+      },
+      {
+        "id": "6",
+        "type": "stock_video",
+        "query": "person relaxed laptop coffee",
+        "fallbacks": ["relaxed typing coffee shop", "happy person laptop"],
+        "est_duration": 2.49
+      },
+      {
+        "id": "7a",
+        "type": "reuse_video",
+        "reuse_scene_id": "2a",
+        "est_duration": 2.57
+      },
+      {
+        "id": "7b",
+        "type": "stock_video",
+        "query": "tired face screen",
+        "fallbacks": ["sleepy office worker", "stressed person screen"],
+        "est_duration": 2.26
+      },
+      {
+        "id": "8",
+        "type": "cta_black",
+        "text": "Build the prompt once.",
+        "est_duration": 2.0
+      }
+    ]
+  }
+}
